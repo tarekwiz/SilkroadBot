@@ -16,7 +16,7 @@ This was a proof that any MMORPG can be automated using a proxy or a program lik
 -> Sending a movement packet</br>
 -> Automatically restart the game when something wrong happens and the game crashes for some reason. </br>
 -> Logging the packets sent and received between the game and the server to help better understand how the game works and maybe</br> implement automated features for other stuff like attacking and buying stuff ingame.</br>
-*****THERE MANY MANY OTHER FEATURES AND CORE FUNCTIONS ARE IMPLEMENTED THAT I HAVE NOT MENTIONED HERE DUE TO LACK OF SPACE AND DUE TO THE FACT THAT I MAY HAVE FORGOTTEN ABOUT THEM AS I HAVE STOPPED WORKING ON THIS PROJECT A YEAR AGO</br>
+*****THERE ARE MANY MANY OTHER FEATURES AND CORE FUNCTIONS WHICH ARE IMPLEMENTED THAT I HAVE NOT MENTIONED HERE DUE TO LACK OF SPACE AND DUE TO THE FACT THAT I MAY HAVE FORGOTTEN ABOUT THEM AS I HAVE STOPPED WORKING ON THIS PROJECT A YEAR AGO</br>
 </br>
 </br>
 <b> Possible Improvements </b></br>
