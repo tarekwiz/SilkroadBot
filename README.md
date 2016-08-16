@@ -1,4 +1,5 @@
 # SilkroadBot</br>
+DATE: Early 2015</br>
 <b> Overview </b></br>
 I initially started this project because I was obsessed with playing the game so called Silkroad.</br>
 This project is one of my best projects ever, it took me hell a lot of time to get to this point at which it actually works pretty</br> well.</br>
@@ -15,7 +16,7 @@ This was a proof that any MMORPG can be automated using a proxy or a program lik
 -> Sending a movement packet</br>
 -> Automatically restart the game when something wrong happens and the game crashes for some reason. </br>
 -> Logging the packets sent and received between the game and the server to help better understand how the game works and maybe</br> implement automated features for other stuff like attacking and buying stuff ingame.</br>
-</br>
+*****THERE MANY MANY OTHER FEATURES AND CORE FUNCTIONS ARE IMPLEMENTED THAT I HAVE NOT MENTIONED HERE DUE TO LACK OF SPACE AND DUE TO THE FACT THAT I MAY HAVE FORGOTTEN ABOUT THEM AS I HAVE STOPPED WORKING ON THIS PROJECT A YEAR AGO</br>
 </br>
 </br>
 <b> Possible Improvements </b></br>
