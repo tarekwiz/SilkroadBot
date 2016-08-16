@@ -1,0 +1,18 @@
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\bin\Debug\Silkroad Fusion.exe
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\bin\Debug\Silkroad Fusion.pdb
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\bin\Debug\SilkroadFusion API.dll
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\bin\Debug\SilkroadFusion API.pdb
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\Proxy_Test.frmMain.resources
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\Silkroad Fusion.exe
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\Silkroad Fusion.pdb
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\bin\Debug\Silkroad Fusion.exe
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\bin\Debug\Silkroad Fusion.pdb
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Debug\Silkroad Fusion.exe
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Debug\Silkroad Fusion.pdb
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Debug\Silkroad_Fusion.frmMain.resources

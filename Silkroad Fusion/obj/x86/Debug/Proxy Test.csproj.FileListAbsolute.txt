@@ -1,0 +1,10 @@
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\bin\Debug\Proxy Test.exe
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\bin\Debug\Proxy Test.pdb
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\Proxy Test.exe
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\Proxy Test.pdb
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\Proxy_Test.frmMain.resources
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\bin\Debug\SilkroadFusion API.dll
+c:\users\unknown\documents\visual studio 2010\Projects\Proxy Test\Proxy Test\bin\Debug\SilkroadFusion API.pdb

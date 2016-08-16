@@ -1,0 +1,15 @@
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\bin\Release\Silkroad Fusion.exe
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\bin\Release\Silkroad Fusion.pdb
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\ResolveAssemblyReference.cache
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\GenerateResource.read.1.tlog
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\GenerateResource.write.1.tlog
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\Silkroad Fusion.exe
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\Silkroad Fusion.pdb
+D:\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\Silkroad_Fusion.frmMain.resources
+D:\Programming\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\bin\Release\Silkroad Fusion.exe
+D:\Programming\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\bin\Release\Silkroad Fusion.pdb
+D:\Programming\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\Silkroad Fusion.csprojResolveAssemblyReference.cache
+D:\Programming\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\Silkroad_Fusion.frmMain.resources
+D:\Programming\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\Silkroad Fusion.csproj.GenerateResource.Cache
+D:\Programming\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\Silkroad Fusion.exe
+D:\Programming\BOTS\Sro Bot\Silkroad Fusion by tarek\Silkroad Fusion\obj\x86\Release\Silkroad Fusion.pdb

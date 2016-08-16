@@ -1,0 +1,3819 @@
+24999;Jangan
+25000;Jangan
+25001;Jangan
+25255;Jangan
+25256;Jangan
+25257;Jangan
+24229;Grassland
+24230;Grassland
+24231;Grassland
+24232;Grassland
+24485;Grassland
+24486;Grassland
+24487;Grassland
+24488;Grassland
+24489;Grassland
+24741;Grassland
+24742;Grassland
+24743;Grassland
+24744;Grassland
+24745;Grassland
+24746;Grassland
+24997;Grassland
+24998;Grassland
+25253;Grassland
+25254;Grassland
+23717;Lake Forest
+23718;Lake Forest
+23719;Lake Forest
+23720;Lake Forest
+23721;Lake Forest
+23722;Lake Forest
+23973;Lake Forest
+23974;Lake Forest
+23975;Lake Forest
+23976;Lake Forest
+23977;Lake Forest
+23978;Lake Forest
+24233;Lake Forest
+24234;Lake Forest
+24490;Lake Forest
+23723;Chinese Tomb
+23724;Chinese Tomb
+23725;Chinese Tomb
+23979;Chinese Tomb
+23980;Chinese Tomb
+23981;Chinese Tomb
+24235;Chinese Tomb
+24236;Chinese Tomb
+24237;Chinese Tomb
+24491;Hill of Ye Mt.
+24492;Hill of Ye Mt.
+24493;Hill of Ye Mt.
+24747;Hill of Ye Mt.
+24748;Hill of Ye Mt.
+24749;Hill of Ye Mt.
+25002;Hill of Ye Mt.
+25003;Hill of Ye Mt.
+25004;Hill of Ye Mt.
+25005;Hill of Ye Mt.
+25258;Hill of Ye Mt.
+25259;Hill of Ye Mt.
+25260;Hill of Ye Mt.
+25261;Hill of Ye Mt.
+25515;Hill of Ye Mt.
+25516;Hill of Ye Mt.
+25517;Hill of Ye Mt.
+25518;Enterance of Qin-Shi Tomb
+25771;Enterance of Qin-Shi Tomb
+25772;Enterance of Qin-Shi Tomb
+25773;Enterance of Qin-Shi Tomb
+25774;Enterance of Qin-Shi Tomb
+26027;Enterance of Qin-Shi Tomb
+26028;Enterance of Qin-Shi Tomb
+26029;Enterance of Qin-Shi Tomb
+26030;Enterance of Qin-Shi Tomb
+26284;Enterance of Qin-Shi Tomb
+25509;Swamp area
+25510;Swamp area
+25511;Swamp area
+25512;Swamp area
+25513;Swamp area
+25514;Swamp area
+25765;Swamp area
+25766;Swamp area
+25767;Swamp area
+25768;Swamp area
+25769;Swamp area
+25770;Swamp area
+26021;Swamp area
+26022;Swamp area
+26023;Swamp area
+26024;Swamp area
+26025;Swamp area
+26026;Swamp area
+23461;Lake Forest
+23462;Lake Forest
+23463;Lake Forest
+23464;Lake Forest
+23465;Lake Forest
+23466;Lake Forest
+23467;Chinese tomb
+23468;Chinese tomb
+23971;Yeoha's Forest
+23972;Yeoha's Forest
+24227;Yeoha's Forest
+24228;Yeoha's Forest
+24483;Yeoha's Forest
+24484;Yeoha's Forest
+24739;Yeoha's Forest
+24740;Yeoha's Forest
+24995;Yeoha's Forest
+24996;Yeoha's Forest
+25250;Yeoha's Forest
+25251;Yeoha's Forest
+25252;Yeoha's Forest
+25507;Yeoha's Forest
+25508;Yeoha's Forest
+23968;North-Tiger Mt.
+23969;North-Tiger Mt.
+23970;North-Tiger Mt.
+24224;North-Tiger Mt.
+24225;North-Tiger Mt.
+24226;North-Tiger Mt.
+24480;North-Tiger Mt.
+24481;North-Tiger Mt.
+24482;North-Tiger Mt.
+24736;North-Tiger Mt.
+24737;North-Tiger Mt.
+24738;North-Tiger Mt.
+24994;North-Tiger Mt.
+23964;North-Tiger Mt.
+23965;North-Tiger Mt.
+23966;North-Tiger Mt.
+23967;North-Tiger Mt.
+24220;North-Tiger Mt.
+24221;North-Tiger Mt.
+24222;North-Tiger Mt.
+24223;North-Tiger Mt.
+24477;North-Tiger Mt.
+24478;North-Tiger Mt.
+24479;North-Tiger Mt.
+23196;South-Tiger Mt.
+23197;South-Tiger Mt.
+23198;South-Tiger Mt.
+23199;South-Tiger Mt.
+23200;South-Tiger Mt.
+23201;South-Tiger Mt.
+23202;South-Tiger Mt.
+23203;South-Tiger Mt.
+23204;South-Tiger Mt.
+23452;South-Tiger Mt.
+23453;South-Tiger Mt.
+23454;South-Tiger Mt.
+23458;South-Tiger Mt.
+23459;South-Tiger Mt.
+23460;South-Tiger Mt.
+23708;South-Tiger Mt.
+23709;South-Tiger Mt.
+23710;South-Tiger Mt.
+23714;South-Tiger Mt.
+23715;South-Tiger Mt.
+23716;South-Tiger Mt.
+23455;Bandit's Mountain Stronghold
+23456;Bandit's Mountain Stronghold
+23457;Bandit's Mountain Stronghold
+23711;Bandit's Mountain Stronghold
+23712;Bandit's Mountain Stronghold
+23713;Bandit's Mountain Stronghold
+24733;Jangan Ferry
+24734;Jangan Ferry
+24735;Jangan Ferry
+24991;Jangan Ferry
+24992;Jangan Ferry
+24993;Jangan Ferry
+22942;South-Tiger Mt.
+24990;Jangan Ferry
+22943;South-Tiger Mt.
+25244;Western China Ferry
+25245;Western China Ferry
+25501;Western China Ferry
+25502;Western China Ferry
+25503;Western China Ferry
+25758;Western China Ferry
+25759;Western China Ferry
+25760;Western China Ferry
+25761;Western China Ferry
+25757;Western China Main Road
+26013;Western China Main Road
+26014;Western China Main Road
+26015;Western China Main Road
+26016;Western China Main Road
+26017;Western China Main Road
+26272;Western China Main Road
+26273;Western China Main Road
+26528;Western China Main Road
+26529;Western China Main Road
+26524;Western China Northern Road
+26779;Western China Northern Road
+26780;Western China Northern Road
+26784;Western China Northern Road
+26785;Western China Northern Road
+27035;Western China Northern Road
+27036;Western China Northern Road
+27037;Western China Northern Road
+27038;Western China Northern Road
+27039;Western China Northern Road
+27040;Western China Northern Road
+27041;Western China Northern Road
+27291;Western China Northern Road
+27292;Western China Northern Road
+27293;Western China Northern Road
+27294;Western China Northern Road
+27295;Western China Northern Road
+27296;Western China Northern Road
+27297;Western China Northern Road
+26269;Western China Ruins
+26270;Western China Ruins
+26271;Western China Ruins
+26525;Western China Ruins
+26526;Western China Ruins
+26527;Western China Ruins
+26781;Western China Ruins
+26782;Western China Ruins
+26783;Western China Ruins
+26008;Entrance-Western China Donwhang
+26009;Entrance-Western China Donwhang
+26010;Entrance-Western China Donwhang
+26011;Entrance-Western China Donwhang
+26012;Entrance-Western China Donwhang
+26266;Entrance-Western China Donwhang
+26267;Entrance-Western China Donwhang
+26268;Entrance-Western China Donwhang
+26522;Entrance-Western China Donwhang
+26523;Entrance-Western China Donwhang
+26264;Western China Donwhang
+26265;Western China Donwhang
+26520;Western China Donwhang
+26521;Western China Donwhang
+24472;Earth Ghost Canyon
+24727;Earth Ghost Canyon
+24728;Earth Ghost Canyon
+24729;Earth Ghost Canyon
+24730;Earth Ghost Canyon
+24983;Earth Ghost Canyon
+24984;Earth Ghost Canyon
+24985;Earth Ghost Canyon
+24986;Earth Ghost Canyon
+24987;Earth Ghost Canyon
+25239;Earth Ghost Canyon
+25240;Earth Ghost Canyon
+25241;Earth Ghost Canyon
+25242;Earth Ghost Canyon
+25243;Earth Ghost Canyon
+25496;Earth Ghost Canyon
+25497;Earth Ghost Canyon
+25498;Earth Ghost Canyon
+25499;Earth Ghost Canyon
+25500;Earth Ghost Canyon
+25752;Earth Ghost Canyon
+25753;Earth Ghost Canyon
+25754;Earth Ghost Canyon
+25755;Earth Ghost Canyon
+25756;Earth Ghost Canyon
+26516;Okmungwan Field
+26517;Okmungwan Field
+26518;Okmungwan Field
+26519;Okmungwan Field
+26772;Okmungwan Field
+26773;Okmungwan Field
+26774;Okmungwan Field
+26775;Okmungwan Field
+26776;Okmungwan Field
+26777;Okmungwan Field
+26778;Okmungwan Field
+27027;Okmungwan Field
+27028;Okmungwan Field
+27029;Okmungwan Field
+27030;Okmungwan Field
+27031;Okmungwan Field
+27032;Okmungwan Field
+27033;Okmungwan Field
+27034;Okmungwan Field
+27283;Okmungwan Field
+27284;Okmungwan Field
+27287;Okmungwan Field
+27288;Okmungwan Field
+27289;Okmungwan Field
+27290;Okmungwan Field
+24982;Gobi Desert
+25237;Gobi Desert
+25238;Gobi Desert
+25492;Gobi Desert
+25493;Gobi Desert
+25494;Gobi Desert
+25495;Gobi Desert
+25748;Gobi Desert
+25749;Gobi Desert
+25750;Gobi Desert
+25751;Gobi Desert
+26004;Gobi Desert
+26005;Gobi Desert
+26006;Gobi Desert
+26007;Gobi Desert
+26260;Gobi Desert
+26261;Gobi Desert
+26262;Gobi Desert
+26263;Gobi Desert
+27285;Okmun field
+25504;Western China Ferry
+24724;Waste Land
+24725;Waste Land
+24979;Waste Land
+24980;Waste Land
+24981;Waste Land
+25235;Waste Land
+25236;Waste Land
+25491;Waste Land
+23960;Highland Oasis
+24214;Highland Oasis
+24215;Highland Oasis
+24216;Highland Oasis
+24469;Highland Oasis
+24470;Highland Oasis
+24471;Highland Oasis
+24726;Highland Oasis
+24719;Tarim basin Highland
+24720;Tarim basin Highland
+24975;Tarim basin Highland
+24976;Tarim basin Highland
+24977;Tarim basin Highland
+25231;Tarim basin Highland
+25232;Tarim basin Highland
+25233;Tarim basin Highland
+25234;Tarim basin Highland
+25487;Tarim basin Highland
+25488;Tarim basin Highland
+25489;Tarim basin Highland
+25490;Tarim basin Highland
+25743;Tarim basin Highland
+25744;Tarim basin Highland
+25745;Tarim basin Highland
+24208;North-Tarim basin
+24463;North-Tarim basin
+24464;North-Tarim basin
+24465;North-Tarim basin
+24721;North-Tarim basin
+24722;North-Tarim basin
+24723;North-Tarim basin
+24978;North-Tarim basin
+23952;Ravine of Death
+23953;Ravine of Death
+24209;Ravine of Death
+24210;Ravine of Death
+24466;Ravine of Death
+24467;Ravine of Death
+23697;Central-Tarim basin
+23698;Central-Tarim basin
+23954;Central-Tarim basin
+23955;Central-Tarim basin
+23956;Central-Tarim basin
+23957;Central-Tarim basin
+24211;Central-Tarim basin
+24212;Central-Tarim basin
+24213;Central-Tarim basin
+24468;Central-Tarim basin
+22935;East-Tarim basin
+22936;East-Tarim basin
+23191;East-Tarim basin
+23192;East-Tarim basin
+23446;East-Tarim basin
+23447;East-Tarim basin
+23448;East-Tarim basin
+23702;East-Tarim basin
+23703;East-Tarim basin
+23704;East-Tarim basin
+23958;East-Tarim basin
+23959;East-Tarim basin
+22930;South-Tarim basin
+22931;South-Tarim basin
+22932;South-Tarim basin
+22933;South-Tarim basin
+22934;South-Tarim basin
+23185;South-Tarim basin
+23186;South-Tarim basin
+23187;South-Tarim basin
+23188;South-Tarim basin
+23189;South-Tarim basin
+23190;South-Tarim basin
+23441;South-Tarim basin
+23442;South-Tarim basin
+23443;Black Robber Den
+23444;Black Robber Den
+23445;Black Robber Den
+23699;Black Robber Den
+23700;Black Robber Den
+23701;Black Robber Den
+22927;Tarim Ferry
+23183;Tarim Ferry
+23439;Tarim Ferry
+23695;Tarim Ferry
+23951;Tarim Ferry
+24207;Tarim Ferry
+23184;South-Tarim basin
+23440;South-Tarim basin
+23696;South-Tarim basin
+24462;North-Tarim baisin
+24718;North-Tarim baisin
+25230;North-Tarim baisin
+25486;North-Tarim baisin
+25746;Waste Land
+25747;Waste Land
+25998;River
+25742;River
+24974;River
+24206;River
+23950;River
+23694;River
+23438;River
+23182;River
+22926;River
+22670;River
+25997;River
+25741;River
+25485;River
+25229;River
+24973;River
+24717;River
+24461;River
+24205;River
+23949;River
+23693;River
+23437;River
+23181;River
+22925;River
+22669;River
+25227;Hotan
+24971;Hotan
+24715;Hotan
+25226;Hotan
+24970;Hotan
+25484;Hotan
+25228;Hotan
+24972;Hotan
+24716;Hotan
+24460;Hotan Ferry
+24204;Hotan Ferry
+23948;Hotan Ferry
+23692;Hotan Ferry
+23436;Hotan Ferry
+23180;Hotan Ferry
+22924;Hotan Ferry
+22668;Hotan Ferry
+24459;Eastern Hotan
+24203;Eastern Hotan
+23947;Eastern Hotan
+23691;Eastern Hotan
+23435;Eastern Hotan
+23179;Eastern Hotan
+22923;Eastern Hotan
+22667;Eastern Hotan
+24714;Northern Hotan
+24458;Eastern Hotan
+24202;Eastern Hotan
+23946;Eastern Hotan
+23690;Eastern Hotan
+23434;Eastern Hotan
+23178;Eastern Hotan
+22922;Southern Hotan
+22666;Southern Hotan
+25225;Northern Hotan
+24969;Northern Hotan
+24713;Northern Hotan
+24457;Eastern Hotan
+24201;Eastern Hotan
+23945;Eastern Hotan
+23689;Eastern Hotan
+23433;Eastern Hotan
+23177;Southern Hotan
+22921;Southern Hotan
+25224;Northern Hotan
+24968;Northern Hotan
+24712;Northern Hotan
+24456;Northern Hotan
+24200;Eastern Hotan
+23944;Eastern Hotan
+23688;Hotan Kingdom
+23432;Hotan Kingdom
+23176;Southern Hotan
+22920;Southern Hotan
+25223;Northern Hotan
+24967;Northern Hotan
+24711;Northern Hotan
+24455;Northern Hotan
+24199;Hotan Kingdom
+23943;Hotan Kingdom
+23687;Hotan Kingdom
+23431;Hotan Kingdom
+23175;Southern Hotan
+22919;Southern Hotan
+25222;Northern Hotan
+24966;Northern Hotan
+24710;Northern Hotan
+24454;Western Hotan
+24198;Western Hotan
+23942;Western Hotan
+23686;Hotan Kingdom
+23430;Western Hotan
+23174;Southern Hotan
+22918;Southern Hotan
+25221;Northern Hotan
+24965;Northern Hotan
+24709;Northern Hotan
+24453;Western Hotan
+24197;Western Hotan
+23941;Western Hotan
+23685;Western Hotan
+23429;Western Hotan
+23173;Southern Hotan
+22917;Southern Hotan
+22661;Southern Hotan
+24452;Western Hotan
+24196;Western Hotan
+23940;Western Hotan
+23684;Western Hotan
+23428;Western Hotan
+23172;Western Hotan
+22916;Western Hotan
+22660;Western Hotan
+22404;Western Hotan
+22148;Western Hotan
+21892;Western Hotan
+24707;Entrance-Karakoram
+24451;Entrance-Karakoram
+24195;Entrance-Karakoram
+23939;Entrance-Karakoram
+23683;Entrance-Karakoram
+23427;Entrance-Karakoram
+23171;Entrance-Karakoram
+22915;Entrance-Karakoram
+22659;East-Karakoram
+22403;East-Karakoram
+22147;East-Karakoram
+21891;East-Karakoram
+24706;North-Karakoram
+24450;North-Karakoram
+24194;North-Karakoram
+23938;North-Karakoram
+23682;East-Karakoram
+23426;East-Karakoram
+23170;East-Karakoram
+22914;East-Karakoram
+22658;East-Karakoram
+22402;East-Karakoram
+22146;East-Karakoram
+21890;East-Karakoram
+21634;East-Karakoram
+24705;North-Karakoram
+24449;North-Karakoram
+24193;North-Karakoram
+23937;North-Karakoram
+23681;Karakoram Ancient Remains
+23425;Karakoram Ancient Remains
+23169;Karakoram Ancient Remains
+22913;Karakoram Ancient Remains
+22657;Karakoram Ancient Remains
+22401;Karakoram Ancient Remains
+22145;South-Karakoram
+21889;South-Karakoram
+24448;North-Karakoram
+24192;North-Karakoram
+23936;North-Karakoram
+23680;Karakoram Ancient Remains
+23424;Karakoram Ancient Remains
+23168;Karakoram Ancient Remains
+22912;Karakoram Ancient Remains
+22656;Karakoram Ancient Remains
+22400;Karakoram Ancient Remains
+22144;South-Karakoram
+21888;South-Karakoram
+21632;South-Karakoram
+24191;North-Karakoram
+23935;North-Karakoram
+23679;Karakoram Ancient Remains
+23423;Karakoram Ancient Remains
+23167;Karakoram Ancient Remains
+22911;Karakoram Ancient Remains
+22655;Karakoram Ancient Remains
+22399;Karakoram Ancient Remains
+22143;South-Karakoram
+21887;South-Karakoram
+21631;South-Karakoram
+24190;North-Karakoram
+23934;North-Karakoram
+23678;Karakoram Ancient Remains
+23422;Karakoram Ancient Remains
+23166;Karakoram Ancient Remains
+22910;Karakoram Ancient Remains
+22654;Karakoram Ancient Remains
+22398;Karakoram Ancient Remains
+22142;South-Karakoram
+21886;South-Karakoram
+21630;South-Karakoram
+24189;North-Karakoram
+23933;North-Karakoram
+23677;Karakoram Ancient Remains
+23421;Karakoram Ancient Remains
+23165;Karakoram Ancient Remains
+22909;Karakoram Ancient Remains
+22653;Karakoram Oasis
+22397;Karakoram Oasis
+22141;South-Karakoram
+21885;South-Karakoram
+21629;South-Karakoram
+24188;North-Karakoram
+23932;North-Karakoram
+23676;North-Karakoram
+23420;Karakoram Ancient Remains
+23164;Karakoram Ancient Remains
+22908;Karakoram Ancient Remains
+22652;Karakoram Oasis
+22396;Karakoram Oasis
+22140;South-Karakoram
+21884;South-Karakoram
+21628;South-Karakoram
+24187;West-Karakoram
+23931;West-Karakoram
+23675;West-Karakoram
+23419;West-Karakoram
+23163;West-Karakoram
+22907;West-Karakoram
+22651;West-Karakoram
+22395;West-Karakoram
+22139;South-Karakoram
+21883;South-Karakoram
+24186;West-Karakoram
+23930;West-Karakoram
+23674;West-Karakoram
+23418;West-Karakoram
+23162;West-Karakoram
+22906;West-Karakoram
+22650;West-Karakoram
+22394;West-Karakoram
+22138;South-Karakoram
+21882;South-Karakoram
+24185;West-Karakoram
+23929;West-Karakoram
+23673;West-Karakoram
+23417;West-Karakoram
+23161;West-Karakoram
+22905;West-Karakoram
+22649;West-Karakoram
+22393;West-Karakoram
+22137;South-Karakoram
+21881;South-Karakoram
+24184;Karakoram
+23928;Karakoram
+23672;Karakoram
+23416;Karakoram
+23160;Karakoram
+22904;Karakoram
+22648;Karakoram
+22392;Karakoram
+22136;Karakoram
+21880;Karakoram
+26507;South-Taklamakan
+26251;South-Taklamakan
+25995;South-Taklamakan
+25739;South-Taklamakan
+25483;South-Taklamakan
+26506;North-Taklamakan
+26250;South-Taklamakan
+25994;South-Taklamakan
+25738;South-Taklamakan
+25482;South-Taklamakan
+27017;North-Taklamakan
+26761;North-Taklamakan
+26505;Anahita River
+26249;South-Taklamakan
+25993;South-Taklamakan
+25737;South-Taklamakan
+25481;South-Taklamakan
+27016;North-Taklamakan
+26760;North-Taklamakan
+26504;Anahita River
+26248;South-Taklamakan
+25992;South-Taklamakan
+25736;South-Taklamakan
+25480;South-Taklamakan
+27015;North-Taklamakan
+26759;North-Taklamakan
+26503;Temple of fertility
+26247;Temple of fertility
+25991;Temple of fertility
+25735;Desert of Mysterious death
+25479;Desert of Mysterious death
+27014;North-Taklamakan
+26758;North-Taklamakan
+26502;Temple of fertility
+26246;Temple of fertility
+25990;Temple of fertility
+25734;Desert of Mysterious death
+25478;Desert of Mysterious death
+27013;North-Taklamakan
+26757;North-Taklamakan
+26501;North-Taklamakan
+26245;North-Taklamakan
+25989;Anahita River
+25733;Desert of Mysterious death
+25477;Desert of Mysterious death
+27012;North-Taklamakan
+26756;North-Taklamakan
+26500;North-Taklamakan
+26244;North-Taklamakan
+25988;Anahita River
+25732;Desert of Mysterious death
+25476;Desert of Mysterious death
+25220;Desert of Mysterious death
+27011;North-Taklamakan
+26755;North-Taklamakan
+26499;North-Taklamakan
+26243;North-Taklamakan
+25987;Anahita River
+25731;Desert of Mysterious death
+25475;Desert of Mysterious death
+25219;Desert of Mysterious death
+27010;North-Taklamakan
+26754;North-Taklamakan
+26498;North-Taklamakan
+26242;Anahita River
+25986;Desert of Mysterious death
+25730;Desert of Mysterious death
+25474;Desert of Mysterious death
+25218;Desert of Mysterious death
+27009;Niya Remains
+26753;Niya Remains
+26497;Niya Remains
+26241;Niya Remains
+25985;Anahita River
+25729;Desert of Mysterious death
+25473;Desert of Mysterious death
+25217;Desert of Mysterious death
+27008;Niya Remains
+26752;Niya Remains
+26496;Niya Remains
+26240;Niya Remains
+25984;Anahita River
+25728;Anahita River
+25472;South-Taklamakan
+25216;South-Taklamakan
+27007;Niya Remains
+26751;Niya Remains
+26495;Niya Remains
+26239;Niya Remains
+25983;North-Taklamakan
+25727;Anahita River
+25471;South-Taklamakan
+25215;South-Taklamakan
+24959;Darkness Cave
+24703;Darkness Cave
+24447;North-Taklamakan
+27006;Niya Remains
+26750;Niya Remains
+26494;Niya Remains
+26238;Niya Remains
+25982;North-Taklamakan
+25726;Anahita River
+25470;South-Taklamakan
+25214;South-Taklamakan
+24958;Darkness Cave
+24702;Darkness Cave
+24446;North-Karakoram
+26493;North-Taklamakan
+26237;North-Taklamakan
+25981;North-Taklamakan
+25725;South-Taklamakan
+25469;South-Taklamakan
+25213;South-Taklamakan
+24957;South-Taklamakan
+24701;South-Taklamakan
+26236;North-Taklamakan
+25980;North-Taklamakan
+25468;South-Taklamakan
+25212;South-Taklamakan
+26762;North-Taklamakan
+24758;Burglar town
+25206;Mt. Roc field
+24950;Mt. Roc field
+24694;Mt. Roc field
+24438;Aircraft dock (North)
+24182;Aircraft dock
+23926;Mt. Roc field
+23670;Mt. Roc field
+23414;Mt. Roc field
+23158;Mt. Roc field
+22902;Mt. Roc field
+22646;Mt. Roc field
+22390;Aircraft dock (South)
+22134;Aircraft dock
+21878;Mt. Roc field
+25205;Mt. Roc field
+24949;Mt. Roc field
+24693;Mt. Roc field
+24437;Peak of Brain
+24181;Peak of Brain
+23925;Mt. Roc field
+23669;Mt. Roc field
+23413;Mt. Roc field
+23157;Mt. Roc field
+22901;Mt. Roc field
+22645;Mt. Roc field
+22389;Peak of Beak
+22133;Peak of Beak
+21877;Mt. Roc field
+25204;Peak of Brain
+24948;Peak of Brain
+24692;Mt. Roc field
+24436;Mt. Roc field
+24180;Mt. Roc field
+23924;Mt. Roc field
+23668;Mt. Roc field
+23412;Wind town
+23156;Wind town
+22900;Mt. Roc field
+22644;Mt. Roc field
+22388;Peak of Beak
+22132;Peak of Beak
+21876;Mt. Roc field
+21620;Mt. Roc field
+25203;Mt. Roc field
+24947;Mt. Roc field
+24691;Mt. Roc field
+24435;Peak of Brain
+24179;Peak of Brain
+23923;Mt. Roc field
+23667;Mt. Roc
+23411;Mt. Roc
+23155;Mt. Roc
+22899;Mt. Roc field
+22643;Mt. Roc field
+22387;Peak of Brain
+22131;Peak of Brain
+21875;Mt. Roc field
+21619;Mt. Roc field
+25202;Mt. Roc field
+24946;Mt. Roc field
+24690;Mt. Roc field
+24434;Mt. Roc field
+24178;Mt. Roc field
+23922;Mt. Roc field
+23666;Mt. Roc
+23410;Peak of Wing
+23154;Peak of Wing
+22898;Mt. Roc
+22642;Mt. Roc field
+22386;Mt. Roc field
+22130;Mt. Roc field
+21874;Mt. Roc field
+21618;Mt. Roc field
+25201;Mt. Roc field
+24945;Mt. Roc field
+24689;Mt. Roc field
+24433;Mt. Roc field
+24177;Mt. Roc field
+23921;Mt. Roc
+23665;Mt. Roc
+23409;Peak of Wing
+23153;Peak of Wing
+22897;Mt. Roc
+22641;Mt. Roc
+22385;Mt. Roc field
+22129;Mt. Roc field
+21873;Mt. Roc field
+21617;Mt. Roc field
+25200;Mt. Roc field
+24944;Mt. Roc field
+24688;Mt. Roc field
+24432;Mt. Roc field
+24176;Mt. Roc
+23920;Peak of Heart
+23664;Peak of Heart
+23408;Mt. Roc
+23152;Mt. Roc
+22896;Mt. Roc
+22640;Mt. Roc
+22384;Mt. Roc
+22128;Mt. Roc field
+21872;Mt. Roc field
+25199;Mt. Roc field
+24943;Mt. Roc field
+24687;Mt. Roc field
+24431;Mt. Roc field
+24175;Mt. Roc
+23919;Peak of Heart
+23663;Peak of Heart
+23407;Mt. Roc
+23151;Mt. Roc
+22895;Mt. Roc
+22639;Mt. Roc
+22383;Mt. Roc
+22127;Mt. Roc field
+21871;Mt. Roc field
+25198;Mt. Roc field
+24942;Mt. Roc field
+24686;Mt. Roc field
+24430;Mt. Roc field
+24174;Mt. Roc field
+23918;Mt. Roc
+23662;Mt. Roc
+23406;Mt. Roc
+23150;Peak of Claw
+22894;Peak of Claw
+22638;Mt. Roc
+22382;Mt. Roc
+22126;Mt. Roc field
+21870;Mt. Roc field
+25197;Mt. Roc field
+24941;Mt. Roc field
+24685;Mt. Roc field
+24429;Mt. Roc field
+24173;Mt. Roc field
+23917;Mt. Roc field
+23661;Mt. Roc
+23405;Mt. Roc
+23149;Peak of Claw
+22893;Peak of Claw
+22637;Mt. Roc
+22381;Mt. Roc field
+22125;Shepherd's town
+21869;Mt. Roc field
+25196;Mt. Roc field
+24940;Mt. Roc field
+24684;Mt. Roc field
+24428;Peak of Eye
+24172;Peak of Eye
+23916;Mt. Roc field
+23660;Mt. Roc field
+23404;Mt. Roc
+23148;Mt. Roc
+22892;Mt. Roc
+22636;Mt. Roc field
+22380;Peak of Tail
+22124;Peak of Tail
+21868;Mt. Roc field
+25195;Mt. Roc field
+24939;Mt. Roc field
+24683;Mt. Roc field
+24427;Peak of Eye
+24171;Peak of Eye
+23915;Mt. Roc field
+23659;Mt. Roc field
+23403;Mt. Roc field
+23147;Mt. Roc field
+22891;Mt. Roc field
+22635;Mt. Roc field
+22379;Peak of Tail
+22123;Peak of Tail
+21867;Mt. Roc field
+25194;Mt. Roc field
+24938;Mt. Roc field
+24682;Mt. Roc field
+24426;Peak of Eye
+24170;Peak of Eye
+23914;Discarded town
+23658;Mt. Roc field
+23402;Mt. Roc field
+23146;Mt. Roc field
+22890;Mt. Roc field
+22634;Mt. Roc field
+22378;Peak of Tail
+22122;Peak of Tail
+21866;Mt. Roc field
+25193;Mt. Roc field
+24937;Mt. Roc field
+24681;Mt. Roc field
+24425;Mt. Roc field
+24169;Mt. Roc field
+23913;Mt. Roc field
+23657;Mt. Roc field
+23401;Mt. Roc field
+23145;Mt. Roc field
+22889;Mt. Roc field
+22633;Mt. Roc field
+22377;Mt. Roc field
+22121;Mt. Roc field
+21865;Mt. Roc field
+25192;Mt. Roc field
+24936;Mt. Roc field
+24680;Mt. Roc field
+24424;Mt. Roc field
+24168;Mt. Roc field
+23912;Mt. Roc field
+23656;Mt. Roc field
+23400;Mt. Roc field
+23144;Mt. Roc field
+22888;Mt. Roc field
+22632;Mt. Roc field
+22376;Mt. Roc field
+22120;Mt. Roc field
+21864;Mt. Roc field
+26302;Mt. Roc Summit
+26046;Mt. Roc Summit
+25790;Mt. Roc Summit
+26301;Mt. Roc Summit
+26045;Mt. Roc Summit
+25789;Protector's Room
+25792;Mt. Roc Audience Chamber
+25533;Mt. Roc Summit
+26300;Mt. Roc Summit
+26044;Mt. Roc Summit
+25788;Mt. Roc Summit
+25532;Mt. Roc Summit
+21621;Mt. Roc field
+27985;Witch's Lighthouse
+27729;Witch's Lighthouse
+27473;Constantinople
+27217;Constantinople
+26961;Constantinople
+28240;Traveler's Hill
+27984;Witch's Lighthouse
+27728;Witch's Lighthouse
+27472;Constantinople
+27216;Constantinople
+26960;Constantinople
+26448;Constantinople
+26704;Constantinople
+28239;Traveler's Hill
+27983;Traveler's Hill
+27727;Traveler's Hill
+27471;Constantinople
+27215;Constantinople
+26959;Constantinople
+26703;Constantinople
+26447;Constantinople
+28238;Traveler's Hill
+27982;Traveler's Hill
+27726;Traveler's Hill
+27470;Constantinople
+27214;Constantinople
+26958;Constantinople
+26702;Constantinople
+26446;Constantinople
+28237;Traveler's Hill
+27981;Traveler's Hill
+27725;Traveler's Hill
+27469;Constantinople
+27213;Constantinople
+26957;Constantinople
+26701;Constantinople
+26445;Constantinople
+26189;Forest of Dusk
+25933;Forest of Dusk
+25677;Forest of Dusk
+25421;Forest of Dusk
+25165;Shore of Early Dawn
+28236;Traveler's Hill
+27980;Traveler's Hill
+27724;Golden Plain
+27468;Golden Plain
+27212;Golden Plain
+26956;Golden Plain
+26700;Golden Plain
+26444;Forest of Dusk
+26188;Forest of Dusk
+25932;Forest of Dusk
+25676;Forest of Dusk
+25420;Forest of Dusk
+25164;Shore of Early Dawn
+28235;Traveler's Hill
+27979;Bloody Hill
+27723;Golden Plain
+27467;Golden Plain
+27211;Golden Plain
+26955;Golden Plain
+26699;Golden Plain
+26443;Forest of Dusk
+26187;Forest of Dusk
+25931;Forest of Dusk
+25675;Forest of Dusk
+25419;Forest of Dusk
+25163;Eastern Europe Dock
+24907;Eastern Europe Dock
+28234;Bloody Hill
+27978;Bloody Hill
+27722;Bloody Hill
+27466;Bloody Hill
+27210;Golden Plain
+26954;Golden Plain
+26698;Golden Plain
+26442;Forest of Dusk
+26186;Forest of Dusk
+25930;Forest of Dusk
+25674;Forest of Dusk
+25418;Forest of Dusk
+25162;Shore of Early Dawn
+24906;Shore of Early Dawn
+24650;Shore of Early Dawn
+28233;Forest of Sorrow
+27977;Forest of Sorrow
+27721;Forest of Sorrow
+27465;Forest of Sorrow
+27209;Forest of Sorrow
+26953;Forest of Sorrow
+26697;Hill of Desperado
+26441;Hill of Desperado
+26185;Hill of Desperado
+25929;Hill of Desperado
+25673;Hill of Desperado
+25417;Forest of Dusk
+25161;Forest of Dusk
+24905;Shore of Early Dawn
+24649;Shore of Early Dawn
+28232;Forest of Sorrow
+27976;Forest of Sorrow
+27720;Forest of Sorrow
+27464;Forest of Sorrow
+27208;Forest of Sorrow
+26952;Forest of Sorrow
+26696;Hill of Desperado
+26440;Hill of Desperado
+26184;Hill of Desperado
+25928;Hill of Desperado
+25672;Garden of Gods
+25416;Garden of Gods
+25160;Garden of Gods
+24904;Garden of Gods
+24648;Shore of Early Dawn
+28231;Forest of Sorrow
+27975;Forest of Sorrow
+27719;Forest of Sorrow
+27463;Forest of Sorrow
+27207;Forest of Sorrow
+26951;Forest of Sorrow
+26695;Forest of Sorrow
+26439;Hill of Desperado
+26183;Hill of Desperado
+25927;Hill of Desperado
+25671;Garden of Gods
+25415;Garden of Gods
+25159;Garden of Gods
+24903;Jupiter Temple
+24647;Jupiter Temple
+24391;Jupiter Temple
+28230;Forest of Sorrow
+27974;Forest of Sorrow
+27718;Forest of Sorrow
+27462;Forest of Sorrow
+27206;Forest of Sorrow
+26950;Forest of Sorrow
+26694;Forest of Sorrow
+26438;Hill of Desperado
+26182;Hill of Desperado
+25926;Hill of Desperado
+25670;Garden of Gods
+25414;Garden of Gods
+25158;Garden of Gods
+24902;Jupiter Temple
+24646;Jupiter Temple
+24390;Jupiter Temple
+28229;Forest of Sorrow
+27973;Forest of Sorrow
+27717;Forest of Sorrow
+27461;Forest of Sorrow
+27205;Forest of Sorrow
+26949;Forest of Sorrow
+26693;Forest of Sorrow
+26437;Forest of Sorrow
+26181;Hill of Desperado
+25925;Hill of Desperado
+25669;Garden of Gods
+25413;Garden of Gods
+25157;Garden of Gods
+24901;Jupiter Temple
+24645;Jupiter Temple
+24389;Jupiter Temple
+28228;Forest of Sorrow
+27972;Forest of Sorrow
+27716;Forest of Sorrow
+27460;Forest of Sorrow
+27204;Forest of Sorrow
+26948;Forest of Sorrow
+26692;Thunder Waterfall
+26436;Thunder Waterfall
+26180;Hill of Desperado
+25924;Hill of Desperado
+25668;Garden of Gods
+25412;Garden of Gods
+25156;Garden of Gods
+24900;Jupiter Temple
+24644;Jupiter Temple
+26200;Coast of Troy
+26712;Coast of Troy
+25433;Coast of Troy
+25689;Coast of Troy
+25945;Sigia Dock
+26201;Coast of Troy
+26457;Sigia Dock
+26713;Coast of Troy
+26969;Coast of Troy
+25434;Coast of Troy
+25690;Coast of Troy
+25946;Coast of Troy
+26202;Coast of Troy
+26458;Coast of Troy
+26714;Coast of Troy
+26970;Coast of Troy
+25435;Coast of Troy
+25691;Coast of Troy
+25947;Coast of Troy
+26203;Coast of Troy
+26459;Coast of Troy
+26715;Coast of Troy
+26971;Coast of Troy
+27227;Coast of Troy
+25180;Center-Minor Asia
+25436;Center-Minor Asia
+25692;Center-Minor Asia
+25948;Center-Minor Asia
+26204;Center-Minor Asia
+26460;Center-Minor Asia
+26716;Center-Minor Asia
+26972;Center-Minor Asia
+27228;Center-Minor Asia
+27484;Center-Minor Asia
+24925;Center-Minor Asia
+25181;Center-Minor Asia
+25437;Center-Minor Asia
+25693;Pond Ruins
+25949;Pond Ruins
+26205;Center-Minor Asia
+26461;Center-Minor Asia
+26717;Center-Minor Asia
+26973;Center-Minor Asia
+27229;Center-Minor Asia
+24926;Evil Order Fortress
+25182;Evil Order Fortress
+25438;Evil Order Fortress
+25694;Pond Ruins
+25950;Pond Ruins
+26206;Cappadocia
+26462;Cappadocia
+26718;Cappadocia
+26974;Center-Minor Asia
+27230;Center-Minor Asia
+24927;Evil Order Fortress
+25183;Evil Order Fortress
+25439;Evil Order Fortress
+25695;Cappadocia
+25951;Cappadocia
+26207;Cappadocia
+26463;Cappadocia
+26719;Cappadocia
+26975;Center-Minor Asia
+27231;Center-Minor Asia
+24928;Evil Order Fortress
+25184;Evil Order Fortress
+25440;Evil Order Fortress
+25696;Cappadocia
+25952;Cappadocia
+26208;Cappadocia
+26464;Cappadocia
+26720;Center-Minor Asia
+26976;Center-Minor Asia
+27232;Center-Minor Asia
+27488;Center-Minor Asia
+24929;Evil Order Fortress
+25185;Evil Order Fortress
+25441;Evil Order Fortress
+25697;Center-Minor Asia
+25953;Cappadocia
+26209;Cappadocia
+26465;Cappadocia
+26721;Center-Minor Asia
+26977;Center-Minor Asia
+27233;Center-Minor Asia
+27489;Center-Minor Asia
+24930;Center-Minor Asia
+25186;Center-Minor Asia
+25442;Center-Minor Asia
+25698;Cleopatra's Gate
+25954;Cleopatra's Gate
+26210;Anatolian Plateau
+26466;Anatolian Plateau
+26722;Anatolian Plateau
+26978;Anatolian Plateau
+27234;Anatolian Plateau
+24675;South- Minor Asia
+24931;Haran's Tower
+25187;Haran's Tower
+25443;East- Minor Asia
+25699;Cleopatra's Gate
+25955;Cleopatra's Gate
+26211;Anatolian Plateau
+26467;Anatolian Plateau
+26723;Anatolian Plateau
+26979;Anatolian Plateau
+24676;South- Minor Asia
+24932;Haran's Tower
+25188;Haran's Tower
+25444;East- Minor Asia
+25700;East- Minor Asia
+25956;Anatolian Plateau
+26212;Anatolian Plateau
+26468;Anatolian Plateau
+26724;Anatolian Plateau
+26980;Anatolian Plateau
+27236;Ampitheater
+27492;Ampitheater
+24677;South- Minor Asia
+24933;South- Minor Asia
+25189;South- Minor Asia
+25445;South- Minor Asia
+25701;East- Minor Asia
+25957;Anatolian Plateau
+26213;Anatolian Plateau
+26469;Anatolian Plateau
+26725;Anatolian Plateau
+26981;Anatolian Plateau
+27237;Ampitheater
+27493;Ampitheater
+24678;South- Minor Asia
+24934;South- Minor Asia
+25190;South- Minor Asia
+25446;South- Minor Asia
+25702;East- Minor Asia
+25958;Anatolian Plateau
+26214;Anatolian Plateau
+26470;Anatolian Plateau
+26726;Anatolian Plateau
+26982;Anatolian Plateau
+27238;Ampitheater
+27494;Ampitheater
+25703;East- Minor Asia
+25959;Anatolian Plateau
+26215;Anatolian Plateau
+26471;Anatolian Plateau
+26727;Anatolian Plateau
+26983;Anatolian Plateau
+25704;Punishment Valley
+25960;Punishment Valley
+26216;Punishment Valley
+26472;Punishment Valley
+26728;Punishment Valley
+26984;Punishment Valley
+27240;Punishment Valley
+27496;Punishment Valley
+25961;Ong Habitat
+26217;Ong Habitat
+26473;Ong Habitat
+26729;Ong Habitat
+26985;West-Central Asia
+27241;West-Central Asia
+27497;West-Central Asia
+27753;West-Central Asia
+25962;Ong Habitat
+26218;Ong Habitat
+26474;Ong Habitat
+26730;Ong Habitat
+26986;West-Central Asia
+27242;West-Central Asia
+27498;West-Central Asia
+27754;West-Central Asia
+25963;Ong Habitat
+26219;Ong Habitat
+26475;Ong Habitat
+26731;Ong Habitat
+26987;West-Central Asia
+27243;Samarkand
+27499;Samarkand
+27755;West-Central Asia
+26220;Ong Habitat
+26476;Ong Habitat
+26732;West-Central Asia
+26988;West-Central Asia
+27244;Samarkand
+27500;Samarkand
+27756;West-Central Asia
+26221;West-Central Asia
+26477;West-Central Asia
+26733;West-Central Asia
+26989;West-Central Asia
+27245;West-Central Asia
+27501;West-Central Asia
+27757;West-Central Asia
+26222;Center-Central Asia
+26478;Center-Central Asia
+26734;Huns Garrison
+26990;Huns Garrison
+27246;Huns Garrison
+27502;Center-Central Asia
+27758;Center-Central Asia
+26223;Center-Central Asia
+26479;Center-Central Asia
+26735;Huns Garrison
+26991;Huns Garrison
+27247;Huns Garrison
+27503;Center-Central Asia
+27759;Center-Central Asia
+26224;Center-Central Asia
+26480;Center-Central Asia
+26736;Huns Garrison
+26992;Huns Garrison
+27248;Huns Garrison
+27504;Center-Central Asia
+27760;Center-Central Asia
+26225;Center-Central Asia
+26481;Center-Central Asia
+26737;Center-Central Asia
+26993;Center-Central Asia
+27249;Center-Central Asia
+27505;Center-Central Asia
+27761;Center-Central Asia
+26226;Center-Central Asia
+26482;Center-Central Asia
+26738;Center-Central Asia
+26994;Center-Central Asia
+27250;Center-Central Asia
+27506;Center-Central Asia
+27762;Center-Central Asia
+26227;Center-Central Asia
+26483;Center-Central Asia
+26739;Center-Central Asia
+26995;Center-Central Asia
+27251;Center-Central Asia
+27507;Center-Central Asia
+27763;Center-Central Asia
+25972;Center-Central Asia
+26228;Center-Central Asia
+26484;Center-Central Asia
+26740;Center-Central Asia
+26996;Center-Central Asia
+27252;Center-Central Asia
+27508;Center-Central Asia
+27764;Center-Central Asia
+25973;Pamir Plateau
+26229;Pamir Plateau
+26485;Pamir Plateau
+26741;Pamir Plateau
+26997;Pamir Plateau
+27253;Center-Central Asia
+27509;Center-Central Asia
+27765;Center-Central Asia
+25974;Pamir Plateau
+26230;Pamir Plateau
+26486;Pamir Plateau
+26742;Pamir Plateau
+26998;Pamir Plateau
+27254;Pamir Plateau
+27510;Pamir Plateau
+25975;Pamir Plateau
+26231;Pamir Plateau
+26487;Pamir Plateau
+26743;Pamir Plateau
+26999;Pamir Plateau
+27255;Pamir Plateau
+26232;Entrance-Tunnel of Abyss
+26488;Entrance-Tunnel of Abyss
+26744;Pamir Plateau
+27000;Entrance-Tunnel of Abyss
+27256;Entrance-Tunnel of Abyss
+32769;Donwhang Stone Cave
+92769;1st floor- Donwhang Stone Cave
+92770;2nd floor- Donwhang Stone Cave
+92771;3rd floor- Donwhang Stone Cave
+92772;4th floor- Donwhang Stone Cave
+32770;Underground Level 6 of Tomb of Qin-Shi
+32771;Underground Level 5 of Tomb of Qin-Shi
+32772;Underground Level 4 of Tomb of Qin-Shi
+32773;Underground Level 3 of Tomb of Qin-Shi
+32774;Underground Level 2 of Tomb of Qin-Shi
+32775;Underground Level 1 of Tomb of Qin-Shi
+17221;Jangan Fortress
+17477;Jangan Fortress
+17733;Jangan Fortress
+17989;Jangan Fortress
+17222;Jangan Fortress
+17478;Jangan Fortress
+17734;Jangan Fortress
+17990;Jangan Fortress
+17223;Jangan Fortress
+17479;Jangan Fortress
+17735;Jangan Fortress
+17991;Jangan Fortress
+17224;Jangan Fortress
+17480;Jangan Fortress
+17736;Jangan Fortress
+17992;Jangan Fortress
+17225;Jangan Fortress
+17481;Jangan Fortress
+17737;Jangan Fortress
+17993;Jangan Fortress
+17229;Bandit Fortress
+17485;Bandit Fortress
+17741;Bandit Fortress
+17997;Bandit Fortress
+17230;Bandit Fortress
+17486;Bandit Fortress
+17742;Bandit Fortress
+17998;Bandit Fortress
+17231;Bandit Fortress
+17487;Bandit Fortress
+17743;Bandit Fortress
+17999;Bandit Fortress
+17232;Bandit Fortress
+17488;Bandit Fortress
+17744;Bandit Fortress
+18000;Bandit Fortress
+16452;Hotan Fortress
+16453;Hotan Fortress
+16454;Hotan Fortress
+16455;Hotan Fortress
+16456;Hotan Fortress
+16196;Hotan Fortress
+16197;Hotan Fortress
+16198;Hotan Fortress
+16199;Hotan Fortress
+16200;Hotan Fortress
+15940;Hotan Fortress
+15941;Hotan Fortress
+15942;Hotan Fortress
+15943;Hotan Fortress
+15944;Hotan Fortress
+15684;Hotan Fortress
+15685;Hotan Fortress
+15686;Hotan Fortress
+15687;Hotan Fortress
+15688;Hotan Fortress
+15428;Hotan Fortress
+15429;Hotan Fortress
+15430;Hotan Fortress
+15431;Hotan Fortress
+15432;Hotan Fortress
+15172;Hotan Fortress
+15173;Hotan Fortress
+15174;Hotan Fortress
+15175;Hotan Fortress
+15176;Hotan Fortress
+14916;Hotan Fortress
+14917;Hotan Fortress
+14918;Hotan Fortress
+14919;Hotan Fortress
+14920;Hotan Fortress
+14660;Hotan Fortress
+14661;Hotan Fortress
+14662;Hotan Fortress
+14663;Hotan Fortress
+14664;Hotan Fortress
+16219; Constantinople Fortress
+15963; Constantinople Fortress
+15707; Constantinople Fortress
+15451; Constantinople Fortress
+16220; Constantinople Fortress
+15964; Constantinople Fortress
+15708; Constantinople Fortress
+15452; Constantinople Fortress
+16221; Constantinople Fortress
+15965; Constantinople Fortress
+15709; Constantinople Fortress
+15453; Constantinople Fortress
+16222; Constantinople Fortress
+15966; Constantinople Fortress
+15710; Constantinople Fortress
+15454; Constantinople Fortress
+16474; Constantinople Fortress
+16218; Constantinople Fortress
+15962; Constantinople Fortress
+15706; Constantinople Fortress
+15450; Constantinople Fortress
+15194; Constantinople Fortress
+16475; Constantinople Fortress
+15195; Constantinople Fortress
+16476; Constantinople Fortress
+15196; Constantinople Fortress
+16477; Constantinople Fortress
+15197; Constantinople Fortress
+16478; Constantinople Fortress
+15198; Constantinople Fortress
+16479; Constantinople Fortress
+16223; Constantinople Fortress
+15967; Constantinople Fortress
+15711; Constantinople Fortress
+15455; Constantinople Fortress
+15199; Constantinople Fortress
+32471;Battle Arena (S)
+32467;Battle Arena (M)
+32211;Battle Arena (M)
+32475;Battle Arena (L)
+32476;Battle Arena (L)
+31194;Capture the flag (S)
+31450;Capture the flag (S)
+31195;Capture the flag (S)
+31444;Capture the flag (M)
+31188;Capture the flag (M)
+31445;Capture the flag (M)
+31189;Capture the flag (M)
+31447;Capture the flag (L)
+31191;Capture the flag (L)
+31192;Capture the flag (L)
+31448;Capture the flag (L)
+29910;Score (S)
+29652;Score (M)
+29396;Score (M)
+29653;Score (M)
+29397;Score (M)
+29654;Score (L)
+29398;Score (L)
+29655;Score (L)
+29399;Score (L)
+15000;Exit
+15101;Exit 1-1
+15102;1-2 (Warp to 2-1)
+15103;2-1 (Warp to 1-2)
+15104;2-2 (Warp to 3-1)
+15105;Chamber of Courage
+15106;Chamber of Challenge
+15107;Chamber of Trial
+15108;Chamber of Hero
+15109;3-1
+15110;3-2
+15111;3-3
+15112;3-4
+15113;3-5
+15305;Hill of Fourfold Paths
+15114;4-1
+15115;4-2
+15116;4-3
+15117;4-4
+15118;5
+15200;Main Enterance
+15201;Main Exit
+15202;Osiris Garden
+15300;Trader/Hunter Enterance
+15301;Theif Enterance
+15302;Trader/Hunter Exit
+15303;Theif Exit
+15304;Dimension Gate(Seth)
+24368;Alexandria
+24111;Alexandria
+24112;Alexandria
+23855;Alexandria
+23856;Alexandria
+23857;Alexandria
+23599;Alexandria (South)
+23600;Alexandria (South)
+23601;Alexandria (South)
+23602;Alexandria (North)
+23603;Alexandria (North)
+23342;Alexandria (South)
+23343;Alexandria (South)
+23344;Alexandria (South)
+23345;Alexandria (South)
+23346;Alexandria (North)
+23347;Alexandria (North)
+23086;Alexandria (South)
+23087;Alexandria (South)
+23088;Alexandria (South)
+23089;Alexandria (South)
+22831;Alexandria
+22832;Alexandria
+22833;Alexandria
+22830;Alexandria
+23085;Alexandria
+23341;Alexandria
+23598;Alexandria
+23854;Alexandria
+24110;Alexandria
+24367;Alexandria
+24623;Alexandria
+24624;Alexandria
+24625;Alexandria
+24369;Alexandria
+24113;Alexandria
+23858;Mahamura Beach
+23859;Mahamura Beach
+23860;Mahamura Beach
+23861;Mahamura Beach
+23862;Mahamura Beach
+23863;Mahamura Beach
+23864;Mahamura Beach
+23604;Abundance Ground
+23605;Abundance Ground
+23606;Abundance Ground
+23607;Abundance Ground
+23608;Abundance Ground
+23348;Abundance Ground
+23349;Abundance Ground
+23350;Abundance Ground
+23351;Abundance Ground
+23090;Abundance Ground
+23091;Abundance Ground
+23092;Abundance Ground
+23093;Abundance Ground
+23094;Abundance Ground
+23095;Abundance Ground
+22834;Abundance Ground
+22835;Abu Mena Ruin
+22836;Abu Mena Ruin
+22837;Abu Mena Ruin
+22838;Abu Mena Ruin
+22576;Abundance Ground
+22577;Abundance Ground
+22578;Abundance Ground
+22579;Abu Mena Ruin
+22580;Abu Mena Ruin
+22581;Abu Mena Ruin
+22582;Abu Mena Ruin
+22322;Abundance Ground
+22323;Forbidden plain
+22324;Forbidden plain
+22325;Forbidden plain
+22067;Forbidden plain
+22068;Forbidden plain
+22069;Forbidden plain
+21812;Forbidden plain
+24114;Delta
+24115;Delta
+24116;Delta
+24117;Delta
+24118;Delta
+24119;Delta
+24120;Delta
+24121;Delta
+23865;Delta
+23609;Delta
+23353;Delta
+23352;Delta
+23096;Delta
+22840;Delta
+22839;Delta
+22583;Delta
+22327;Delta
+22326;Delta
+22070;Delta
+21814;Delta
+21813;Delta
+21557;Delta
+21556;Delta
+21555;Delta
+21811;Delta
+21810;Delta
+22066;Delta
+22065;Delta
+22321;Delta
+22320;Delta
+22319;Delta
+22575;Delta
+19768;KingsValley
+19769;KingsValley
+19770;KingsValley
+19771;KingsValley
+19772;KingsValley
+19773;KingsValley
+19774;KingsValley
+19775;KingsValley
+19776;KingsValley
+19777;KingsValley
+19778;KingsValley
+19779;KingsValley
+19780;KingsValley
+19781;KingsValley
+19782;KingsValley
+19783;KingsValley
+19784;KingsValley
+19785;KingsValley
+19786;KingsValley
+19787;KingsValley
+19512;KingsValley
+19513;Echo valley
+19514;Echo valley
+19515;Echo valley
+19516;Echo valley
+19517;Echo valley
+19518;Echo valley
+19519;Echo valley
+19520;Red ground
+19521;Red ground
+19522;Red ground
+19523;Chaos Maze
+19524;Chaos Maze
+19525;Chaos Maze
+19526;Chaos Maze
+19527;Chaos Maze
+19528;Holy Water Temple
+19529;Holy Water Temple
+19530;Holy Water Temple
+19531;Pharaoh tomb Entrance
+19256;Echo valley
+19257;Echo valley
+19258;Echo valley
+19259;Echo valley
+19260;Echo valley
+19261;Echo valley
+19262;Echo valley
+19263;Echo valley
+19264;Red ground
+19265;Red ground
+19266;Red ground
+19267;Chaos Maze
+19268;Chaos Maze
+19269;Chaos Maze
+19270;Chaos Maze
+19271;Chaos Maze
+19272;Holy Water Temple
+19273;Holy Water Temple
+19274;Holy Water Temple
+19275;Pharaoh tomb Entrance
+19000;Echo valley
+19001;Echo valley
+19002;Echo valley
+19003;Echo valley
+19004;Echo valley
+19005;Echo valley
+19006;Echo valley
+19007;Echo valley
+19008;Red ground
+19009;Red ground
+19010;Red ground
+19011;Chaos Maze
+19012;Chaos Maze
+19013;Chaos Maze
+19014;Chaos Maze
+19015;Chaos Maze
+19016;Holy Water Temple
+19017;Holy Water Temple
+19018;Holy Water Temple
+19019;Holy Water Temple
+18744;Echo valley
+18745;Echo valley
+18746;Echo valley
+18747;Echo valley
+18748;Echo valley
+18749;Echo valley
+18750;Echo valley
+18751;Echo valley
+18752;Red ground
+18753;Red ground
+18754;Red ground
+18755;Chaos Maze
+18756;Chaos Maze
+18757;Chaos Maze
+18758;Chaos Maze
+18759;Chaos Maze
+18760;Holy Water Temple
+18761;Holy Water Temple
+18762;Holy Water Temple
+18763;Pharaoh tomb Entrance
+18488;KingsValley
+18489;KingsValley
+18490;KingsValley
+18491;KingsValley
+18492;KingsValley
+18493;KingsValley
+18494;KingsValley
+18495;KingsValley
+18496;KingsValley
+18497;KingsValley
+18498;KingsValley
+18499;KingsValley
+18500;KingsValley
+18501;KingsValley
+18502;KingsValley
+18503;KingsValley
+18504;KingsValley
+18505;KingsValley
+18506;KingsValley
+18507;KingsValley
+30399;Pharaoh tomb
+30143;Pharaoh tomb
+29887;Pharaoh tomb
+29631;Pharaoh tomb
+29375;Pharaoh tomb
+29119;Pharaoh tomb
+30400;Pharaoh tomb
+30144;Pharaoh tomb
+29888;Pharaoh tomb
+29632;Pharaoh tomb
+29376;Pharaoh tomb
+29120;Pharaoh tomb
+30401;Pharaoh tomb
+30145;Pharaoh tomb
+29889;Pharaoh tomb
+29633;Pharaoh tomb
+29377;Pharaoh tomb
+29121;Pharaoh tomb
+30402;Pharaoh tomb
+30146;Pharaoh tomb
+29890;Pharaoh tomb
+29634;Pharaoh tomb
+29378;Pharaoh tomb
+29122;Pharaoh tomb
+30403;Pharaoh tomb
+30147;Pharaoh tomb
+29891;Pharaoh tomb
+29635;Pharaoh tomb
+29379;Pharaoh tomb
+29123;Pharaoh tomb
+30404;Pharaoh tomb
+30148;Pharaoh tomb
+29892;Pharaoh tomb
+29636;Pharaoh tomb
+29380;Pharaoh tomb
+29124;Pharaoh tomb
+32191;Pharaoh tomb
+32192;Pharaoh tomb
+32193;Pharaoh tomb
+32194;Pharaoh tomb
+32195;Pharaoh tomb
+32196;Pharaoh tomb
+32197;Pharaoh tomb
+31935;Pharaoh tomb
+31936;Pharaoh tomb
+31937;Pharaoh tomb
+31938;Pharaoh tomb
+31939;Pharaoh tomb
+31940;Pharaoh tomb
+31941;Pharaoh tomb
+31679;Pharaoh tomb
+31680;Pharaoh tomb
+31681;Pharaoh tomb
+31682;Pharaoh tomb
+31683;Pharaoh tomb
+31684;Pharaoh tomb
+31685;Pharaoh tomb
+31423;Pharaoh tomb
+31424;Pharaoh tomb
+31425;Pharaoh tomb
+31426;Pharaoh tomb
+31427;Pharaoh tomb
+31428;Pharaoh tomb
+31429;Pharaoh tomb
+31167;Pharaoh tomb
+31168;Pharaoh tomb
+31169;Pharaoh tomb
+31170;Pharaoh tomb
+31171;Pharaoh tomb
+31172;Pharaoh tomb
+31173;Pharaoh tomb
+30911;Pharaoh tomb
+30912;Pharaoh tomb
+30913;Pharaoh tomb
+30914;Pharaoh tomb
+30915;Pharaoh tomb
+30916;Pharaoh tomb
+30917;Pharaoh tomb
+32178;Pharaoh tomb
+32179;Pharaoh tomb
+32180;Pharaoh tomb
+32181;Pharaoh tomb
+32182;Pharaoh tomb
+32183;Pharaoh tomb
+32184;Pharaoh tomb
+31922;Pharaoh tomb
+31923;Pharaoh tomb
+31924;Pharaoh tomb
+31925;Pharaoh tomb
+31926;Pharaoh tomb
+31927;Pharaoh tomb
+31928;Pharaoh tomb
+31666;Pharaoh tomb
+31667;Pharaoh tomb
+31668;Pharaoh tomb
+31669;Pharaoh tomb
+31670;Pharaoh tomb
+31671;Pharaoh tomb
+31672;Pharaoh tomb
+31410;Pharaoh tomb
+31411;Pharaoh tomb
+31412;Pharaoh tomb
+31413;Pharaoh tomb
+31414;Pharaoh tomb
+31415;Pharaoh tomb
+31416;Pharaoh tomb
+31154;Pharaoh tomb
+31155;Pharaoh tomb
+31156;Pharaoh tomb
+31157;Pharaoh tomb
+31158;Pharaoh tomb
+31159;Pharaoh tomb
+31160;Pharaoh tomb
+30898;Pharaoh tomb
+30899;Pharaoh tomb
+30900;Pharaoh tomb
+30901;Pharaoh tomb
+30902;Pharaoh tomb
+30903;Pharaoh tomb
+30904;Pharaoh tomb
+22592;Sand Desert
+22593;Sand Desert
+22594;Sand Desert
+22595;Sand Desert
+22596;Sand Desert
+22597;Sand Desert
+22598;Sand Desert
+22599;Sand Desert
+22600;Sand Desert
+22601;Sand Desert
+22602;Sand Desert
+22603;Sand Desert
+22604;Sand Desert
+22336;Sand Desert
+22337;Red Hamada
+22338;Red Hamada
+22339;Red Hamada
+22340;Red Leg
+22341;Red Leg
+22342;Red Leg
+22343;Red Leg
+22344;Red Eggre
+22345;Red Eggre
+22346;Red Eggre
+22347;Red Eggre
+22348;Sand Desert
+22080;Sand Desert
+22081;Red Hamada
+22082;Red Hamada
+22083;Red Hamada
+22084;Red Leg
+22085;Red Leg
+22086;Red Leg
+22087;Salt Post
+22088;Red Eggre
+22089;Red Eggre
+22090;Red Eggre
+22091;Red Eggre
+22092;Sand Desert
+21824;Sand Desert
+21825;Mushroom rock area
+21826;Mushroom rock area
+21827;Mushroom rock area
+21828;Salt Post
+21829;Salt Post
+21830;Salt Post
+21831;Salt Post
+21832;Salt Post
+21833;Salt Desert
+21834;Salt Desert
+21835;Salt Desert
+21836;Sand Desert
+21568;Sand Desert
+21569;Mushroom rock area
+21570;Mushroom rock area
+21571;Mushroom rock area
+21572;Salt Post
+21573;Salt Post
+21574;Salt Post
+21575;Salt Post
+21576;Salt Post
+21577;Salt Desert
+21578;Salt Desert
+21579;Salt Desert
+21580;Sand Desert
+21312;Sand Desert
+21313;Black Hamada
+21314;Black Hamada
+21315;Black Hamada
+21316;Black Leg
+21317;Black Leg
+21318;Black Leg
+21319;Black Leg
+21320;Salt Post
+21321;Salt Desert
+21322;Black Eggre
+21323;Black Eggre
+21324;Sand Desert
+21056;Sand Desert
+21057;Black Hamada
+21058;Black Hamada
+21059;Black Hamada
+21060;Black Leg
+21061;Black Leg
+21062;Black Leg
+21063;Black Leg
+21064;Black Leg
+21065;Black Eggre
+21066;Black Eggre
+21067;Black Eggre
+21068;Sand Desert
+20800;Sand Desert
+20801;Sand Desert
+20802;Sand Desert
+20803;Sand Desert
+20804;Sand Desert
+20805;Sand Desert
+20806;Sand Desert
+20807;Sand Desert
+20808;Sand Desert
+20809;Sand Desert
+20810;Sand Desert
+20811;Sand Desert
+20812;Sand Desert
+32778;sanctum of Restriction
+32779;sanctum of Blue Eye
+32780;sanctum of punishment
+32781;sanctum of Atonement
+32782;sanctum of Immortality
+32783;sanctum of Dark
+32784;Temple
+32785;Cave of Meditation
+28370;GNGWC
+28371;GNGWC
+28372;GNGWC
+28373;GNGWC
+28114;GNGWC
+28115;GNGWC
+28116;GNGWC
+28117;GNGWC
+27858;GNGWC
+27859;GNGWC
+27860;GNGWC
+27861;GNGWC
+32481;Togui Village
+32482;Togui Village
+32483;Togui Village
+32484;Togui Village
+32485;Togui Village
+32486;Togui Village
+32487;Togui Village
+32488;Togui Village
+32225;Togui Village
+32226;Togui Village
+32227;Togui Village
+32228;Togui Village
+32229;Togui Village
+32230;Togui Village
+32231;Togui Village
+32232;Togui Village
+31969;Togui Village
+31970;Togui Village
+31971;Togui Village
+31972;Togui Village
+31973;Togui Village
+31974;Togui Village
+31975;Togui Village
+31976;Togui Village
+31713;Togui Village
+31714;Togui Village
+31715;Togui Village
+31716;Togui Village
+31717;Togui Village
+31718;Togui Village
+31719;Togui Village
+31720;Togui Village
+31457;Togui Village
+31458;Togui Village
+31459;Togui Village
+31460;Togui Village
+31461;Togui Village
+31462;Togui Village
+31463;Togui Village
+31464;Togui Village
+31201;Togui Village
+31202;Togui Village
+31203;Togui Village
+31204;Togui Village
+31205;Togui Village
+31206;Togui Village
+31207;Togui Village
+31208;Togui Village
+30189;Inside of the Shipwreck
+29933;Inside of the Shipwreck
+29677;Inside of the Shipwreck
+29421;Inside of the Shipwreck
+29165;Inside of the Shipwreck
+28909;Inside of the Shipwreck
+28653;Inside of the Shipwreck
+28397;Inside of the Shipwreck
+28141;Inside of the Shipwreck
+27885;Inside of the Shipwreck
+27629;Inside of the Shipwreck
+27373;Inside of the Shipwreck
+27117;Inside of the Shipwreck
+26861;Inside of the Shipwreck
+30190;Inside of the Shipwreck
+29934;Inside of the Shipwreck
+29678;Inside of the Shipwreck
+29422;Inside of the Shipwreck
+29166;Inside of the Shipwreck
+28910;Inside of the Shipwreck
+28654;Inside of the Shipwreck
+28398;Inside of the Shipwreck
+28142;Inside of the Shipwreck
+27886;Inside of the Shipwreck
+27630;Inside of the Shipwreck
+27374;Inside of the Shipwreck
+27118;Inside of the Shipwreck
+26862;Inside of the Shipwreck
+30191;Inside of the Shipwreck
+29935;Inside of the Shipwreck
+29679;Inside of the Shipwreck
+29423;Inside of the Shipwreck
+29167;Inside of the Shipwreck
+28911;Inside of the Shipwreck
+28655;Inside of the Shipwreck
+28399;Inside of the Shipwreck
+28143;Inside of the Shipwreck
+27887;Inside of the Shipwreck
+27631;Inside of the Shipwreck
+27375;Inside of the Shipwreck
+27119;Inside of the Shipwreck
+26863;Inside of the Shipwreck
+30192;Inside of the Shipwreck
+29936;Inside of the Shipwreck
+29680;Inside of the Shipwreck
+29424;Inside of the Shipwreck
+29168;Inside of the Shipwreck
+28912;Inside of the Shipwreck
+28656;Inside of the Shipwreck
+28400;Inside of the Shipwreck
+28144;Inside of the Shipwreck
+27888;Inside of the Shipwreck
+27632;Inside of the Shipwreck
+27376;Inside of the Shipwreck
+27120;Inside of the Shipwreck
+26864;Inside of the Shipwreck
+30193;Inside of the Shipwreck
+29937;Inside of the Shipwreck
+29681;Inside of the Shipwreck
+29425;Inside of the Shipwreck
+29169;Inside of the Shipwreck
+28913;Inside of the Shipwreck
+28657;Inside of the Shipwreck
+28401;Inside of the Shipwreck
+28145;Inside of the Shipwreck
+27889;Inside of the Shipwreck
+27633;Inside of the Shipwreck
+27377;Inside of the Shipwreck
+27121;Inside of the Shipwreck
+26865;Inside of the Shipwreck
+30194;Inside of the Shipwreck
+29938;Inside of the Shipwreck
+29682;Inside of the Shipwreck
+29426;Inside of the Shipwreck
+29170;Inside of the Shipwreck
+28914;Inside of the Shipwreck
+28658;Inside of the Shipwreck
+28402;Inside of the Shipwreck
+28146;Inside of the Shipwreck
+27890;Inside of the Shipwreck
+27634;Inside of the Shipwreck
+27378;Inside of the Shipwreck
+27122;Inside of the Shipwreck
+26866;Inside of the Shipwreck
+30195;Inside of the Shipwreck
+29939;Inside of the Shipwreck
+29683;Inside of the Shipwreck
+29427;Inside of the Shipwreck
+29171;Inside of the Shipwreck
+28915;Inside of the Shipwreck
+28659;Inside of the Shipwreck
+28403;Inside of the Shipwreck
+28147;Inside of the Shipwreck
+27891;Inside of the Shipwreck
+27635;Inside of the Shipwreck
+27379;Inside of the Shipwreck
+27123;Inside of the Shipwreck
+26867;Inside of the Shipwreck
+30196;Inside of the Shipwreck
+29940;Inside of the Shipwreck
+29684;Inside of the Shipwreck
+29428;Inside of the Shipwreck
+29172;Inside of the Shipwreck
+28916;Inside of the Shipwreck
+28660;Inside of the Shipwreck
+28404;Inside of the Shipwreck
+28148;Inside of the Shipwreck
+27892;Inside of the Shipwreck
+27636;Inside of the Shipwreck
+27380;Inside of the Shipwreck
+27124;Inside of the Shipwreck
+26868;Inside of the Shipwreck
+30197;Inside of the Shipwreck
+29941;Inside of the Shipwreck
+29685;Inside of the Shipwreck
+29429;Inside of the Shipwreck
+29173;Inside of the Shipwreck
+28917;Inside of the Shipwreck
+28661;Inside of the Shipwreck
+28405;Inside of the Shipwreck
+28149;Inside of the Shipwreck
+27893;Inside of the Shipwreck
+27637;Inside of the Shipwreck
+27381;Inside of the Shipwreck
+27125;Inside of the Shipwreck
+26869;Inside of the Shipwreck
+30198;Inside of the Shipwreck
+29942;Inside of the Shipwreck
+29686;Inside of the Shipwreck
+29430;Inside of the Shipwreck
+29174;Inside of the Shipwreck
+28918;Inside of the Shipwreck
+28662;Inside of the Shipwreck
+28406;Inside of the Shipwreck
+28150;Inside of the Shipwreck
+27894;Inside of the Shipwreck
+27638;Inside of the Shipwreck
+27382;Inside of the Shipwreck
+27126;Inside of the Shipwreck
+26870;Inside of the Shipwreck
+30199;Inside of the Shipwreck
+29943;Inside of the Shipwreck
+29687;Inside of the Shipwreck
+29431;Inside of the Shipwreck
+29175;Inside of the Shipwreck
+28919;Inside of the Shipwreck
+28663;Inside of the Shipwreck
+28407;Inside of the Shipwreck
+28151;Inside of the Shipwreck
+27895;Inside of the Shipwreck
+27639;Inside of the Shipwreck
+27383;Inside of the Shipwreck
+27127;Inside of the Shipwreck
+26871;Inside of the Shipwreck
+30200;Inside of the Shipwreck
+29944;Inside of the Shipwreck
+29688;Inside of the Shipwreck
+29432;Inside of the Shipwreck
+29176;Inside of the Shipwreck
+28920;Inside of the Shipwreck
+28664;Inside of the Shipwreck
+28408;Inside of the Shipwreck
+28152;Inside of the Shipwreck
+27896;Inside of the Shipwreck
+27640;Inside of the Shipwreck
+27384;Inside of the Shipwreck
+27128;Inside of the Shipwreck
+26872;Inside of the Shipwreck
+30201;Inside of the Shipwreck
+29945;Inside of the Shipwreck
+29689;Inside of the Shipwreck
+29433;Inside of the Shipwreck
+29177;Inside of the Shipwreck
+28921;Inside of the Shipwreck
+28665;Inside of the Shipwreck
+28409;Inside of the Shipwreck
+28153;Inside of the Shipwreck
+27897;Inside of the Shipwreck
+27641;Inside of the Shipwreck
+27385;Inside of the Shipwreck
+27129;Inside of the Shipwreck
+26873;Inside of the Shipwreck
+30202;Inside of the Shipwreck
+29946;Inside of the Shipwreck
+29690;Inside of the Shipwreck
+29434;Inside of the Shipwreck
+29178;Inside of the Shipwreck
+28922;Inside of the Shipwreck
+28666;Inside of the Shipwreck
+28410;Inside of the Shipwreck
+28154;Inside of the Shipwreck
+27898;Inside of the Shipwreck
+27642;Inside of the Shipwreck
+27386;Inside of the Shipwreck
+27130;Inside of the Shipwreck
+26874;Inside of the Shipwreck
+30203;Inside of the Shipwreck
+29947;Inside of the Shipwreck
+29691;Inside of the Shipwreck
+29435;Inside of the Shipwreck
+29179;Inside of the Shipwreck
+28923;Inside of the Shipwreck
+28667;Inside of the Shipwreck
+28411;Inside of the Shipwreck
+28155;Inside of the Shipwreck
+27899;Inside of the Shipwreck
+27643;Inside of the Shipwreck
+27387;Inside of the Shipwreck
+27131;Inside of the Shipwreck
+26875;Inside of the Shipwreck
+30204;Inside of the Shipwreck
+29948;Inside of the Shipwreck
+29692;Inside of the Shipwreck
+29436;Inside of the Shipwreck
+29180;Inside of the Shipwreck
+28924;Inside of the Shipwreck
+28668;Inside of the Shipwreck
+28412;Inside of the Shipwreck
+28156;Inside of the Shipwreck
+27900;Inside of the Shipwreck
+27644;Inside of the Shipwreck
+27388;Inside of the Shipwreck
+27132;Inside of the Shipwreck
+26876;Inside of the Shipwreck
+30172;Outside of the Shipwreck
+29916;Outside of the Shipwreck
+29660;Outside of the Shipwreck
+29404;Outside of the Shipwreck
+29148;Outside of the Shipwreck
+28892;Outside of the Shipwreck
+28636;Outside of the Shipwreck
+28380;Outside of the Shipwreck
+28124;Outside of the Shipwreck
+27868;Outside of the Shipwreck
+27612;Outside of the Shipwreck
+27356;Outside of the Shipwreck
+27100;Outside of the Shipwreck
+26844;Outside of the Shipwreck
+30173;Outside of the Shipwreck
+29917;Outside of the Shipwreck
+29661;Outside of the Shipwreck
+29405;Outside of the Shipwreck
+29149;Outside of the Shipwreck
+28893;Outside of the Shipwreck
+28637;Outside of the Shipwreck
+28381;Outside of the Shipwreck
+28125;Outside of the Shipwreck
+27869;Outside of the Shipwreck
+27613;Outside of the Shipwreck
+27357;Outside of the Shipwreck
+27101;Outside of the Shipwreck
+26845;Outside of the Shipwreck
+30174;Outside of the Shipwreck
+29918;Outside of the Shipwreck
+29662;Outside of the Shipwreck
+29406;Outside of the Shipwreck
+29150;Outside of the Shipwreck
+28894;Outside of the Shipwreck
+28638;Outside of the Shipwreck
+28382;Outside of the Shipwreck
+28126;Outside of the Shipwreck
+27870;Outside of the Shipwreck
+27614;Outside of the Shipwreck
+27358;Outside of the Shipwreck
+27102;Outside of the Shipwreck
+26846;Outside of the Shipwreck
+30175;Outside of the Shipwreck
+29919;Outside of the Shipwreck
+29663;Outside of the Shipwreck
+29407;Outside of the Shipwreck
+29151;Outside of the Shipwreck
+28895;Outside of the Shipwreck
+28639;Outside of the Shipwreck
+28383;Outside of the Shipwreck
+28127;Outside of the Shipwreck
+27871;Outside of the Shipwreck
+27615;Outside of the Shipwreck
+27359;Outside of the Shipwreck
+27103;Outside of the Shipwreck
+26847;Outside of the Shipwreck
+30176;Outside of the Shipwreck
+29920;Outside of the Shipwreck
+29664;Outside of the Shipwreck
+29408;Outside of the Shipwreck
+29152;Outside of the Shipwreck
+28896;Outside of the Shipwreck
+28640;Outside of the Shipwreck
+28384;Outside of the Shipwreck
+28128;Outside of the Shipwreck
+27872;Outside of the Shipwreck
+27616;Outside of the Shipwreck
+27360;Outside of the Shipwreck
+27104;Outside of the Shipwreck
+26848;Outside of the Shipwreck
+30177;Outside of the Shipwreck
+29921;Outside of the Shipwreck
+29665;Outside of the Shipwreck
+29409;Outside of the Shipwreck
+29153;Outside of the Shipwreck
+28897;Outside of the Shipwreck
+28641;Outside of the Shipwreck
+28385;Outside of the Shipwreck
+28129;Outside of the Shipwreck
+27873;Outside of the Shipwreck
+27617;Outside of the Shipwreck
+27361;Outside of the Shipwreck
+27105;Outside of the Shipwreck
+26849;Outside of the Shipwreck
+30178;Outside of the Shipwreck
+29922;Outside of the Shipwreck
+29666;Outside of the Shipwreck
+29410;Outside of the Shipwreck
+29154;Outside of the Shipwreck
+28898;Outside of the Shipwreck
+28642;Outside of the Shipwreck
+28386;Outside of the Shipwreck
+28130;Outside of the Shipwreck
+27874;Outside of the Shipwreck
+27618;Outside of the Shipwreck
+27362;Outside of the Shipwreck
+27106;Outside of the Shipwreck
+26850;Outside of the Shipwreck
+30179;Outside of the Shipwreck
+29923;Outside of the Shipwreck
+29667;Outside of the Shipwreck
+29411;Outside of the Shipwreck
+29155;Outside of the Shipwreck
+28899;Outside of the Shipwreck
+28643;Outside of the Shipwreck
+28387;Outside of the Shipwreck
+28131;Outside of the Shipwreck
+27875;Outside of the Shipwreck
+27619;Outside of the Shipwreck
+27363;Outside of the Shipwreck
+27107;Outside of the Shipwreck
+26851;Outside of the Shipwreck
+30180;Outside of the Shipwreck
+29924;Outside of the Shipwreck
+29668;Outside of the Shipwreck
+29412;Outside of the Shipwreck
+29156;Outside of the Shipwreck
+28900;Outside of the Shipwreck
+28644;Outside of the Shipwreck
+28388;Outside of the Shipwreck
+28132;Outside of the Shipwreck
+27876;Outside of the Shipwreck
+27620;Outside of the Shipwreck
+27364;Outside of the Shipwreck
+27108;Outside of the Shipwreck
+26852;Outside of the Shipwreck
+30181;Outside of the Shipwreck
+29925;Outside of the Shipwreck
+29669;Outside of the Shipwreck
+29413;Outside of the Shipwreck
+29157;Outside of the Shipwreck
+28901;Outside of the Shipwreck
+28645;Outside of the Shipwreck
+28389;Outside of the Shipwreck
+28133;Outside of the Shipwreck
+27877;Outside of the Shipwreck
+27621;Outside of the Shipwreck
+27365;Outside of the Shipwreck
+27109;Outside of the Shipwreck
+26853;Outside of the Shipwreck
+30182;Outside of the Shipwreck
+29926;Outside of the Shipwreck
+29670;Outside of the Shipwreck
+29414;Outside of the Shipwreck
+29158;Outside of the Shipwreck
+28902;Outside of the Shipwreck
+28646;Outside of the Shipwreck
+28390;Outside of the Shipwreck
+28134;Outside of the Shipwreck
+27878;Outside of the Shipwreck
+27622;Outside of the Shipwreck
+27366;Outside of the Shipwreck
+27110;Outside of the Shipwreck
+26854;Outside of the Shipwreck
+30183;Outside of the Shipwreck
+29927;Outside of the Shipwreck
+29671;Outside of the Shipwreck
+29415;Outside of the Shipwreck
+29159;Outside of the Shipwreck
+28903;Outside of the Shipwreck
+28647;Outside of the Shipwreck
+28391;Outside of the Shipwreck
+28135;Outside of the Shipwreck
+27879;Outside of the Shipwreck
+27623;Outside of the Shipwreck
+27367;Outside of the Shipwreck
+27111;Outside of the Shipwreck
+26855;Outside of the Shipwreck
+30184;Outside of the Shipwreck
+29928;Outside of the Shipwreck
+29672;Outside of the Shipwreck
+29416;Outside of the Shipwreck
+29160;Outside of the Shipwreck
+28904;Outside of the Shipwreck
+28648;Outside of the Shipwreck
+28392;Outside of the Shipwreck
+28136;Outside of the Shipwreck
+27880;Outside of the Shipwreck
+27624;Outside of the Shipwreck
+27368;Outside of the Shipwreck
+27112;Outside of the Shipwreck
+26856;Outside of the Shipwreck
+30185;Outside of the Shipwreck
+29929;Outside of the Shipwreck
+29673;Outside of the Shipwreck
+29417;Outside of the Shipwreck
+29161;Outside of the Shipwreck
+28905;Outside of the Shipwreck
+28649;Outside of the Shipwreck
+28393;Outside of the Shipwreck
+28137;Outside of the Shipwreck
+27881;Outside of the Shipwreck
+27625;Outside of the Shipwreck
+27369;Outside of the Shipwreck
+27113;Outside of the Shipwreck
+26857;Outside of the Shipwreck
+30186;Outside of the Shipwreck
+29930;Outside of the Shipwreck
+29674;Outside of the Shipwreck
+29418;Outside of the Shipwreck
+29162;Outside of the Shipwreck
+28906;Outside of the Shipwreck
+28650;Outside of the Shipwreck
+28394;Outside of the Shipwreck
+28138;Outside of the Shipwreck
+27882;Outside of the Shipwreck
+27626;Outside of the Shipwreck
+27370;Outside of the Shipwreck
+27114;Outside of the Shipwreck
+26858;Outside of the Shipwreck
+30187;Outside of the Shipwreck
+29931;Outside of the Shipwreck
+29675;Outside of the Shipwreck
+29419;Outside of the Shipwreck
+29163;Outside of the Shipwreck
+28907;Outside of the Shipwreck
+28651;Outside of the Shipwreck
+28395;Outside of the Shipwreck
+28139;Outside of the Shipwreck
+27883;Outside of the Shipwreck
+27627;Outside of the Shipwreck
+27371;Outside of the Shipwreck
+27115;Outside of the Shipwreck
+26859;Outside of the Shipwreck
+-32750;Flame Mountain
+32786;Flame Mountain
+25800;Mirror Dimension
+25544;Mirror Dimension
+25288;Mirror Dimension
+25032;Mirror Dimension
+24776;Mirror Dimension
+24520;Mirror Dimension
+24264;Mirror Dimension
+24008;Mirror Dimension
+23752;Mirror Dimension
+23496;Mirror Dimension
+23240;Mirror Dimension
+22984;Mirror Dimension
+22728;Mirror Dimension
+22472;Mirror Dimension
+22216;Mirror Dimension
+21960;Mirror Dimension
+21704;Mirror Dimension
+25801;Mirror Dimension
+25545;Mirror Dimension
+25289;Mirror Dimension
+25033;Mirror Dimension
+24777;Mirror Dimension
+24521;Mirror Dimension
+24265;Mirror Dimension
+24009;Mirror Dimension
+23753;Mirror Dimension
+23497;Mirror Dimension
+23241;Mirror Dimension
+22985;Mirror Dimension
+22729;Mirror Dimension
+22473;Mirror Dimension
+22217;Mirror Dimension
+21961;Mirror Dimension
+21705;Mirror Dimension
+25802;Mirror Dimension
+25546;Mirror Dimension
+25290;Mirror Dimension
+25034;Mirror Dimension
+24778;Mirror Dimension
+24522;Mirror Dimension
+24266;Mirror Dimension
+24010;Mirror Dimension
+23754;Mirror Dimension
+23498;Mirror Dimension
+23242;Mirror Dimension
+22986;Mirror Dimension
+22730;Mirror Dimension
+22474;Mirror Dimension
+22218;Mirror Dimension
+21962;Mirror Dimension
+21706;Mirror Dimension
+25803;Mirror Dimension
+25547;Mirror Dimension
+25291;Mirror Dimension
+25035;Mirror Dimension
+24779;Mirror Dimension
+24523;Mirror Dimension
+24267;Mirror Dimension
+24011;Mirror Dimension
+23755;Mirror Dimension
+23499;Mirror Dimension
+23243;Mirror Dimension
+22987;Mirror Dimension
+22731;Mirror Dimension
+22475;Mirror Dimension
+22219;Enterance of Jupiter Temple
+21963;Mirror Dimension
+21707;Mirror Dimension
+25804;Mirror Dimension
+25548;Mirror Dimension
+25292;Mirror Dimension
+25036;Mirror Dimension
+24780;Mirror Dimension
+24524;Mirror Dimension
+24268;Mirror Dimension
+24012;Mirror Dimension
+23756;Mirror Dimension
+23500;Mirror Dimension
+23244;Mirror Dimension
+22988;Mirror Dimension
+22732;Mirror Dimension
+22476;Mirror Dimension
+22220;Mirror Dimension
+21964;Mirror Dimension
+21708;Mirror Dimension
+25805;Mirror Dimension
+25549;Mirror Dimension
+25293;Mirror Dimension
+25037;Mirror Dimension
+24781;Mirror Dimension
+24525;Mirror Dimension
+24269;Mirror Dimension
+24013;Mirror Dimension
+23757;Mirror Dimension
+23501;Mirror Dimension
+23245;Mirror Dimension
+22989;Mirror Dimension
+22733;Mirror Dimension
+22477;Mirror Dimension
+22221;Mirror Dimension
+21965;Mirror Dimension
+21709;Mirror Dimension
+25806;Mirror Dimension
+25550;Mirror Dimension
+25294;Mirror Dimension
+25038;Mirror Dimension
+24782;Mirror Dimension
+24526;Mirror Dimension
+24270;Mirror Dimension
+24014;Mirror Dimension
+23758;Mirror Dimension
+23502;Mirror Dimension
+23246;Mirror Dimension
+22990;Mirror Dimension
+22734;Mirror Dimension
+22478;Mirror Dimension
+22222;Mirror Dimension
+21966;Mirror Dimension
+21710;Mirror Dimension
+25807;Mirror Dimension
+25551;Mirror Dimension
+25295;Mirror Dimension
+25039;Mirror Dimension
+24783;Mirror Dimension
+24527;Mirror Dimension
+24271;Mirror Dimension
+24015;Mirror Dimension
+23759;Mirror Dimension
+23503;Mirror Dimension
+23247;Mirror Dimension
+22991;Mirror Dimension
+22735;Mirror Dimension
+22479;Mirror Dimension
+22223;Mirror Dimension
+21967;Mirror Dimension
+21711;Mirror Dimension
+25808;Mirror Dimension
+25552;Mirror Dimension
+25296;Mirror Dimension
+25040;Mirror Dimension
+24784;Mirror Dimension
+24528;Mirror Dimension
+24272;Mirror Dimension
+24016;Mirror Dimension
+23760;Mirror Dimension
+23504;Mirror Dimension
+23248;Mirror Dimension
+22992;Mirror Dimension
+22736;Mirror Dimension
+22480;Mirror Dimension
+22224;Mirror Dimension
+21968;Mirror Dimension
+21712;Mirror Dimension
+25809;Mirror Dimension
+25553;Mirror Dimension
+25297;Mirror Dimension
+25041;Mirror Dimension
+24785;Mirror Dimension
+24529;Mirror Dimension
+24273;Mirror Dimension
+24017;Mirror Dimension
+23761;Mirror Dimension
+23505;Mirror Dimension
+23249;Mirror Dimension
+22993;Mirror Dimension
+22737;Mirror Dimension
+22481;Mirror Dimension
+22225;Mirror Dimension
+21969;Mirror Dimension
+21713;Mirror Dimension
+25810;Mirror Dimension
+25554;Mirror Dimension
+25298;Mirror Dimension
+25042;Mirror Dimension
+24786;Mirror Dimension
+24530;Mirror Dimension
+24274;Mirror Dimension
+24018;Mirror Dimension
+23762;Mirror Dimension
+23506;Mirror Dimension
+23250;Mirror Dimension
+22994;Mirror Dimension
+22738;Mirror Dimension
+22482;Mirror Dimension
+22226;Mirror Dimension
+21970;Mirror Dimension
+21714;Mirror Dimension
+25811;Mirror Dimension
+25555;Mirror Dimension
+25299;Mirror Dimension
+25043;Mirror Dimension
+24787;Mirror Dimension
+24531;Mirror Dimension
+24275;Mirror Dimension
+24019;Mirror Dimension
+23763;Mirror Dimension
+23507;Mirror Dimension
+23251;Mirror Dimension
+22995;Mirror Dimension
+22739;Mirror Dimension
+22483;Mirror Dimension
+22227;Mirror Dimension
+21971;Mirror Dimension
+21715;Mirror Dimension
+25812;Mirror Dimension
+25556;Mirror Dimension
+25300;Mirror Dimension
+25044;Mirror Dimension
+24788;Mirror Dimension
+24532;Mirror Dimension
+24276;Mirror Dimension
+24020;Mirror Dimension
+23764;Mirror Dimension
+23508;Mirror Dimension
+23252;Mirror Dimension
+22996;Mirror Dimension
+22740;Mirror Dimension
+22484;Mirror Dimension
+22228;Mirror Dimension
+21972;Mirror Dimension
+21716;Mirror Dimension
+25813;Mirror Dimension
+25557;Mirror Dimension
+25301;Mirror Dimension
+25045;Mirror Dimension
+24789;Mirror Dimension
+24533;Mirror Dimension
+24277;Mirror Dimension
+24021;Mirror Dimension
+23765;Mirror Dimension
+23509;Mirror Dimension
+23253;Mirror Dimension
+22997;Mirror Dimension
+22741;Mirror Dimension
+22485;Mirror Dimension
+22229;Mirror Dimension
+21973;Mirror Dimension
+21717;Mirror Dimension
+25814;Mirror Dimension
+25558;Mirror Dimension
+25302;Mirror Dimension
+25046;Mirror Dimension
+24790;Mirror Dimension
+24534;Mirror Dimension
+24278;Mirror Dimension
+24022;Mirror Dimension
+23766;Mirror Dimension
+23510;Mirror Dimension
+23254;Mirror Dimension
+22998;Mirror Dimension
+22742;Mirror Dimension
+22486;Mirror Dimension
+22230;Mirror Dimension
+21974;Mirror Dimension
+21718;Mirror Dimension
+32235;Hall of Worship
+31979;Hall of Worship
+31723;Hall of Worship
+32236;Hall of Worship
+31980;Hall of Worship
+31724;Hall of Worship
+32237;Hall of Worship
+31981;Hall of Worship
+31725;Hall of Worship
+32787;The Earth's Room
+32788;Yuno's Room
+32789;Jupiter's Room
+32790;Zealots Hideout
+27091;Battlefield of Infinity
+27092;Battlefield of Infinity
+32241;Styria Clash
+32242;Styria Clash
+31985;Styria Clash
+31986;Styria Clash
+28375;Catacomb
+28119;Catacomb
+27863;Catacomb
+27607;Catacomb
+28376;Catacomb
+28120;Catacomb
+27864;Catacomb
+27608;Catacomb
+28377;Catacomb
+28121;Catacomb
+27865;Catacomb
+27609;Catacomb
+28378;Catacomb
+28122;Catacomb
+27866;Catacomb
+27610;Catacomb
+32791;GM's Room
+32792;Prison
+22872;Baghdad
+22873;Baghdad
+22874;Baghdad
+22875;Baghdad
+22876;Baghdad
+22877;Baghdad
+22616;Baghdad
+22617;Baghdad
+22618;Baghdad
+22619;Baghdad
+22620;Baghdad
+22621;Baghdad
+22622;Baghdad
+22360;Baghdad
+22361;Baghdad
+22362;Baghdad
+22363;Baghdad
+22364;Baghdad
+22365;Baghdad
+22104;Baghdad
+22105;Baghdad
+22106;Baghdad
+22107;Baghdad
+22108;Baghdad
+22109;Baghdad
+21850;Baghdad
+24146;Baghdad (?)
+24147;Baghdad (?)
+24148;Baghdad (?)
+24149;Baghdad (?)
+24150;Baghdad (?)
+23890;Baghdad (?)
+23891;Baghdad (?)
+23892;Baghdad (?)
+23893;Baghdad (?)
+23894;Baghdad (?)
+23634;Baghdad (?)
+23635;Baghdad (?)
+23636;Baghdad (?)
+23637;Baghdad (?)
+23638;Baghdad (?)
+23378;Baghdad (?)
+23379;Baghdad (?)
+23380;Baghdad (?)
+23381;Baghdad (?)
+23382;Baghdad (?)
+22866;Kirk
+22867;Kirk
+22868;Kirk
+22869;Kirk
+22870;Kirk
+22871;Kirk
+22610;Kirk
+22611;Kirk
+22612;Kirk
+22613;Kirk
+22614;Kirk
+22615;Kirk
+22354;Kirk
+22355;Kirk
+22356;Kirk
+22357;Kirk
+22358;Kirk
+22359;Kirk
+22098;Kirk
+22099;Kirk
+22100;Kirk
+22101;Kirk
+22102;Kirk
+22103;Kirk
+20815;Phantom Desert
+20816;Phantom Desert
+20817;Phantom Desert
+20818;Phantom Desert
+20559;Phantom Desert
+20560;Phantom Desert
+20561;Phantom Desert
+20562;Phantom Desert
+20303;Phantom Desert
+20304;Phantom Desert
+20305;Phantom Desert
+20306;Phantom Desert
+20047;Phantom Desert
+20048;Phantom Desert
+20049;Phantom Desert
+20050;Phantom Desert
+19791;Phantom Desert
+19792;Phantom Desert
+19793;Phantom Desert
+19794;Phantom Desert
+19535;Phantom Desert
+19536;Phantom Desert
+19537;Phantom Desert
+19538;Phantom Desert
+19279;Phantom Desert
+19280;Phantom Desert
+19281;Phantom Desert
+19282;Phantom Desert
+19023;Phantom Desert
+19024;Phantom Desert
+19025;Phantom Desert
+19026;Phantom Desert
+18767;Phantom Desert
+18768;Phantom Desert
+18769;Phantom Desert
+18770;Phantom Desert
+32793;Kalia's Hideout
+21589;0
+21333;0
+21077;0
+20821;0
+20565;0
+20309;0
+20053;0
+19797;0
+19541;0
+19285;0
+19029;0
+18773;0
+21590;0
+21334;0
+21078;0
+20822;0
+20566;0
+20310;0
+20054;0
+19798;0
+19542;0
+19286;0
+19030;0
+18774;0
+21591;0
+21335;0
+21079;0
+20823;0
+20567;0
+20311;0
+20055;0
+19799;0
+19543;0
+19287;0
+19031;0
+18775;0
+21592;0
+21336;0
+21080;0
+20824;0
+20568;0
+20312;0
+20056;0
+19800;0
+19544;0
+19288;0
+19032;0
+18776;0
+21593;0
+21337;0
+21081;0
+20825;0
+20569;0
+20313;0
+20057;0
+19801;0
+19545;0
+19289;0
+19033;0
+18777;0
+21594;0
+21338;0
+21082;0
+20826;0
+20570;0
+20314;0
+20058;0
+19802;0
+19546;0
+19290;0
+19034;0
+18778;0
+21595;0
+21339;0
+21083;0
+20827;0
+20571;0
+20315;0
+20059;0
+19803;0
+19547;0
+19291;0
+19035;0
+18779;0
+21596;0
+21340;0
+21084;0
+20828;0
+20572;0
+20316;0
+20060;0
+19804;0
+19548;0
+19292;0
+19036;0
+18780;0
+20573;0
+20317;0
+20061;0
+19805;0
+19549;0
+19293;0
+19037;0
+18781;0
+20574;0
+20318;0
+20062;0
+19806;0
+19550;0
+19294;0
+19038;0
+18782;0
+20575;0
+20319;0
+20063;0
+19807;0
+19551;0
+19295;0
+19039;0
+18783;0
+22861;0
+22605;0
+22349;0
+22093;0
+21837;0
+21581;0
+21325;0
+22862;0
+22606;0
+22350;0
+22094;0
+21838;0
+21582;0
+21326;0
+22863;0
+22607;0
+22351;0
+22095;0
+21839;0
+21583;0
+21327;0
+22864;0
+22608;0
+22352;0
+22096;0
+21840;0
+21584;0
+21328;0
+32246;0
+31990;0
+31734;0
+32247;0
+31991;0
+31735;0
+32248;0
+31992;0
+31736;0
+25580;Colosseum
+25584;Desert Arena
+25328;Desert Arena
+25585;Desert Arena
+25329;Desert Arena
+25589;The Great Imperial Drill Hall
+25333;The Great Imperial Drill Hall
+25590;The Great Imperial Drill Hall
+25334;The Great Imperial Drill Hall
+DH_A01_F01_ENTROOM;Entrance-Donwhang Stone Cave
+DH_A01_F01_PASS_01;1F-Path
+DH_A01_F01_PASS_02;1F-Cave
+DH_A01_F01_ROOM_01;1F-Chamber(A)
+DH_A01_F01_ROOM_02;1F-Chamber(B)
+DH_A01_F01_ROOM_03;1F-Chamber(C)
+DH_A01_F01_ROOM_04;1F-Chamber(D)
+DH_A01_F02_ROOM_01;1F-Chamber(E)
+DH_A01_F02_ROOM_02;1F-Chamber(F)
+DH_A01_F02_ROOM_03;1F-Chamber(G)
+DH_A01_F02_ROOM_04;1F-Chamber(H)
+DH_A01_F03_ROOM_01;1F-Chamber(I)
+DH_A01_F03_ROOM_02;1F-Chamber(J)
+DH_A01_F03_ROOM_03;1F-Chamber(K)
+DH_A01_F03_ROOM_04;1F-Chamber(L)
+DH_A01_F04_ROOM_01;1F-Chamber(M)
+DH_A01_F04_ROOM_02;1F-Chamber(N)
+DH_A01_F04_ROOM_03;1F-Chamber(O)
+DH_A01_F04_ROOM_04;1F-Chamber(P)
+DH_A02_F01_PASS_01;2F-Path
+DH_A02_F01_PASS_02;2F-Cave
+DH_A02_F01_ROOM_01;2F-Chamber(A)
+DH_A02_F01_ROOM_02;2F-Chamber(B)
+DH_A02_F01_ROOM_03;2F-Chamber(C)
+DH_A02_F01_ROOM_04;2F-Chamber(D)
+DH_A02_F02_ROOM_01;2F-Chamber(E)
+DH_A02_F02_ROOM_02;2F-Chamber(F)
+DH_A02_F02_ROOM_03;2F-Chamber(G)
+DH_A02_F02_ROOM_04;2F-Chamber(H)
+DH_A02_F03_ROOM_01;2F-Chamber(I)
+DH_A02_F03_ROOM_02;2F-Chamber(J)
+DH_A02_F03_ROOM_03;2F-Chamber(K)
+DH_A02_F03_ROOM_04;2F-Chamber(L)
+DH_A02_F04_ROOM_01;2F-Chamber(M)
+DH_A02_F04_ROOM_02;2F-Chamber(N)
+DH_A02_F04_ROOM_03;2F-Chamber(O)
+DH_A02_F04_ROOM_04;2F-Chamber(P)
+DH_A01_FLOOR01;1F
+DH_A01_FLOOR02;2F
+DH_A01_FLOOR03;3F
+DH_A01_FLOOR04;4F
+QT_A01_F01_ROOM_01;Audience Chamber
+QT_A01_F02_ROOM_01;Military Camp 1
+QT_A01_F02_ROOM_02;Military Camp 2
+QT_A01_F02_ROOM_03;Military Camp 3
+QT_A01_F02_ROOM_04;Military Camp 4
+QT_A01_F02_ROOM_05;Military Camp 5
+QT_A01_F02_ROOM_06;Military Camp 6
+QT_A01_F02_ROOM_07;Military Camp 7
+QT_A01_F02_ROOM_08;Military Camp 8
+QT_A01_F02_ROOM_09;Military Camp 9
+QT_A01_F02_ROOM_10;Military Camp 10
+QT_A01_F02_ROOM_11;Military Camp 11
+QT_A01_F02_ROOM_12;Military Camp 12
+QT_A01_F02_ROOM_13;Military Camp 13
+QT_A01_F02_ROOM_14;Military Camp 14
+QT_A01_F02_ROOM_15;Military Camp 15
+QT_A01_F02_ROOM_16;Military Camp 16
+QT_A01_F02_SROOM_01;Room of Courage
+QT_A01_F02_SROOM_02;Room of Challenge
+QT_A01_F02_SROOM_03;Room of Ordeal
+QT_A01_F02_SROOM_04;Rooom of Hero
+QT_A01_F03_ENTROOM;Central Cave
+QT_A01_F03_CPASS_01;Central Cave Passage
+QT_A01_F03_WPASS_01;West Snake Cave Passage
+QT_A01_F03_WROOM_02;West Snake Cave (Sa)
+QT_A01_F03_WROOM_03;West Snake Cave (Lyn)
+QT_A01_F03_WROOM_04;West Snake Cave (Chun)
+QT_A01_F03_WROOM_05;West Snake Cave (Do)
+QT_A01_F03_WROOM_06;West Snake Cave (Ha)
+QT_A01_F03_WROOM_07;West Snake Cave (Re)
+QT_A01_F03_NPASS_01;North Snake Passage
+QT_A01_F03_NROOM_02;North Snake Cave (Sa)
+QT_A01_F03_NROOM_03;North Snake Cave (Lyn)
+QT_A01_F03_NROOM_04;North Snake Cave (Chun)
+QT_A01_F03_NROOM_05;North Snake Cave (Do)
+QT_A01_F03_NROOM_06;North Snake Cave (Ha)
+QT_A01_F03_NROOM_07;North Snake Cave (Re)
+QT_A01_F03_EPASS_01;East Snake Passage
+QT_A01_F03_EROOM_02;East Snake Cave (Sa)
+QT_A01_F03_EROOM_03;East Snake Cave (Lyn)
+QT_A01_F03_EROOM_04;East Snake Cave (Chun)
+QT_A01_F03_EROOM_05;East Snake Cave (Do)
+QT_A01_F03_EROOM_06;East Snake Cave (Ha)
+QT_A01_F03_EROOM_07;East Snake Cave (Re)
+QT_A01_F03_SPASS_01;South Snake Passage
+QT_A01_F03_SROOM_02;South Snake Cave (Sa)
+QT_A01_F03_SROOM_03;South Snake Cave (Lyn)
+QT_A01_F03_SROOM_04;South Snake Cave (Chun)
+QT_A01_F03_SROOM_05;South Snake Cave (Do)
+QT_A01_F03_SROOM_06;South Snake Cave (Ha)
+QT_A01_F03_SROOM_07;South Snake Cave (Re)
+QT_A01_F04_PASS_01;Snake Passage
+QT_A01_F04_WARP_NW;NorthWest Snake Passage
+QT_A01_F04_WARP_NE;NorthEest Snake Passage
+QT_A01_F04_WARP_SE;SouthEest Snake Passage
+QT_A01_F04_WARP_SW;SouthWest Snake Passage
+QT_A01_F04_SROOM_CENTER;Snake Room
+QT_A01_F04_SROOM_NORTH;North Ki Room
+QT_A01_F04_SROOM_EAST;East Jung Room
+QT_A01_F04_SROOM_SOUTH;South Yul Room
+QT_A01_F04_SROOM_WEST;West Hew Room
+QT_A01_F04_NWROOM_01;NorthWest Snake Room (Ki)
+QT_A01_F04_NWROOM_02;NorthWest Snake Room (Jung)
+QT_A01_F04_NWROOM_03;NorthWest Snake Room (Yul)
+QT_A01_F04_NWROOM_04;NorthWest Snake Room (Hew)
+QT_A01_F04_NEROOM_01;NorthEest Snake Room (Ki)
+QT_A01_F04_NEROOM_02;NorthEest Snake Room (Jung)
+QT_A01_F04_NEROOM_03;NorthEest Snake Room (Yul)
+QT_A01_F04_NEROOM_04;NorthEest Snake Room (Hew)
+QT_A01_F04_SEROOM_01;SouthEest Snake Room (Ki)
+QT_A01_F04_SEROOM_02;SouthEest Snake Room (Jung)
+QT_A01_F04_SEROOM_03;SouthEest Snake Room (Yul)
+QT_A01_F04_SEROOM_04;SouthEest Snake Room (Hew)
+QT_A01_F04_SWROOM_01;SouthWest Snake Room (Ki)
+QT_A01_F04_SWROOM_02;SouthWest Snake Room (Jung)
+QT_A01_F04_SWROOM_03;SouthWest Snake Room (Yul)
+QT_A01_F04_SWROOM_04;SouthWest Snake Room (Hew)
+QT_A01_F05_PASS_01;The Blue Dragon Passage
+QT_A01_F05_PASS_02;The Black Tortoise Passage
+QT_A01_F05_PASS_03;The White Tiger Passage
+QT_A01_F05_PASS_04;The Blue Hawk Passage
+QT_A01_F05_ROOM_CENTER;Flame Sprite Passage
+QT_A01_F05_ROOM_NORTH;The Black Tortoise Room
+QT_A01_F05_ROOM_EAST;The White Tiger Room
+QT_A01_F05_ROOM_SOUTH;The Blue Hawk Room
+QT_A01_F05_ROOM_WEST;The Blue Dragon Room
+QT_A01_F06_PASS;Central Viper Passage
+QT_A01_F06_ROOM_NORTH;The White Viper Room
+QT_A01_F06_ROOM_EAST;The Black Viper Room
+QT_A01_F06_ROOM_SOUTH;Guardian Viper Room
+QT_A01_F06_ROOM_WEST;Viper Room
+QT_A01_FLOOR01;B1
+QT_A01_FLOOR02;B2
+QT_A01_FLOOR03;B3
+QT_A01_FLOOR04;B4
+QT_A01_FLOOR05;B5
+QT_A01_FLOOR06;B6
+FLAG_DH_BLUE_ROOM;Blue Zone
+FLAG_DH_RED_ROOM;Red Zone
+FLAG_DH_PASS;Passage
+FLAG_DH_BLUE_PASS;Blue Zone Passage
+FLAG_DH_RED_PASS;Red Zone Passage
+FLAG_DH_BLUE_REV_ROOM;Blue team revival zone
+FLAG_DH_RED_REV_ROOM;Red team revival zone
+FLAME_DUNGEON;Inside of the Flame Mountain
+RN_CH_WESTFERRY_01;Ferry In China, West
+RN_CH_WESTFERRY_02;Ferry used to move to Western China
+RN_CH_WESTFERRY_03;xxx
+RN_CH_BANDITDEN_01;Bandit's Mountain Stronghold
+RN_CH_BANDITDEN_02;Stronghold of Bandits that dominate the Tiger Mountain and threaten merchants
+RN_CH_BANDITDEN_03;Monster Level 12~16
+RN_CH_EASTFERRY_01;Ferry In China, East
+RN_CH_EASTFERRY_02;Ferry that is used to move to Western China
+RN_CH_EASTFERRY_03;xxx
+RN_CH_YEOHA_01;Yeoha's Forest
+RN_CH_YEOHA_02;once the spirit of tree, blood-stained Forest of Yeohas
+RN_CH_YEOHA_03;Monster Level 10
+RN_CH_SHAMAN_01;Shaman's Home
+RN_CH_SHAMAN_02;A place where Şaman Miaoryeong lives. Be careful not to anger the gods
+RN_CH_SHAMAN_03;xxx
+RN_CH_SWAMP_01;Swamp
+RN_CH_SWAMP_02;Swamp occupied by Water Ghosts
+RN_CH_SWAMP_03;Monster Level 6~7
+RN_CH_GRASS_01;China Grassland
+RN_CH_GRASS_02;Beautiful grassland that spread across Jangan
+RN_CH_GRASS_03;Monster Level 1~2
+RN_CH_JANGAN_01;Jangan
+RN_CH_JANGAN_02;Capital of China, and the center city of Silk Road trade
+RN_CH_JANGAN_03;xxx
+RN_CH_GRAVE_01;China Tomb
+RN_CH_GRAVE_02;A tomb with stones hovering occupied by the evil energy
+RN_CH_GRAVE_03;Monster Level 8~9
+RN_CH_QINSHIENTER_01;Enterance of Qin-Shi Tomb
+RN_CH_QINSHIENTER_02;Gateway to Qin-Shi Tomb
+RN_CH_QINSHIENTER_03;Monster Level 8~9
+RN_OA_TARIMFERRY_01;Tarim Ferry
+RN_OA_TARIMFERRY_02;Ferry that is used to move to Hotan from Tarim Basin
+RN_OA_TARIMFERRY_03;xxx
+RN_OA_DEATHVALLEY_01;Ravine of Death
+RN_OA_DEATHVALLEY_02;A ravine well known for not being able to escape once anyboyd goes into
+RN_OA_DEATHVALLEY_03;Monster Level 41~42
+RN_OA_BRIGANDDEN_01;Black Robber Den
+RN_OA_BRIGANDDEN_02;Den of Black Robbers, lead by the great commander Uruchi
+RN_OA_BRIGANDDEN_03;Monster Level 36~38
+RN_OA_TARIMOASIS_01;Tarim Oasis
+RN_OA_TARIMOASIS_02;Oasis that offers fresh water to infertile Tarim Basin
+RN_OA_TARIMOASIS_03;Monster Level 33~34
+RN_WC_CAVEENTER_01;Entrance of Donwhang Stone Cave
+RN_WC_CAVEENTER_02;Entrance to Donwhang Stone Cave
+RN_WC_CAVEENTER_03;xxx
+RN_WC_GOBIDESERT_01;Gobi Desert
+RN_WC_GOBIDESERT_02;Desert of Mongol plateau, formed with stony deserts
+RN_WC_GOBIDESERT_03;Monster Level 29~30
+RN_WC_TOGUIRAVINE_01;Earth Ghost Canyon
+RN_WC_TOGUIRAVINE_02;Canyon of Western China, occupied by Earth Ghosts
+RN_WC_TOGUIRAVINE_03;Monster Level 27~30
+RN_WC_OKMUNGUAN_01;Okmungwan
+RN_WC_OKMUNGUAN_02;A gate that brings in jades from Western China
+RN_WC_OKMUNGUAN_03;xxx
+RN_WC_DUNHWANG_01;Western China Donwhang
+RN_WC_DUNHWANG_02;A gateway city of Silk Road that connects China and Central Asia
+RN_WC_DUNHWANG_03;xxx
+RN_WC_WESTFERRY_01;Western China West Ferry
+RN_WC_WESTFERRY_02;Ferry that is used to move to China from Western China
+RN_WC_WESTFERRY_03;xxx
+RN_WC_HYUNGNO_01;Hyungno Homeland
+RN_WC_HYUNGNO_02;A place where the souls of Hyungno tribe beaten by the Hans hover
+RN_WC_HYUNGNO_03;Monster Level 23~24
+RN_WC_EASTFERRY_01;Western China East Ferry
+RN_WC_EASTFERRY_02;Ferry that is used to move to China from Western China
+RN_WC_EASTFERRY_03;xxx
+RN_OA_OASISKINGDOM_01;Hotan Palace
+RN_OA_OASISKINGDOM_02;The biggest oasis city in southern land, western china, located in the center of Silk Road
+RN_OA_OASISKINGDOM_03;xxx
+RN_OA_PAOTOWN_01;P'ao Village
+RN_OA_PAOTOWN_02;Area with traces of residence of Mongol tribes
+RN_OA_PAOTOWN_03;Monster Level 43
+RN_OA_KHOTANFERRY_01;Hotan Ferry
+RN_OA_KHOTANFERRY_02;Ferry that is used to move to Tarim Basin from Hotan
+RN_OA_KHOTANFERRY_03;xxx
+RN_KK_NORTHWESTFERRY_01;Karakoram Northwest Dock
+RN_KK_NORTHWESTFERRY_02;Dock that is used to move to Roc Mountain and Central Asia from Karakoram
+RN_KK_NORTHWESTFERRY_03;xxx
+RN_KK_SOUTHWESTFERRY_01;Karakoram Southwest Dock
+RN_KK_SOUTHWESTFERRY_02;Dock that is used to move to Roc Mountain from Karakoram
+RN_KK_SOUTHWESTFERRY_03;xxx
+RN_KK_SPIDERFOREST_01;Spider Forest
+RN_KK_SPIDERFOREST_02;Forest occupied by the spiders that worship goddess Isyutaru
+RN_KK_SPIDERFOREST_03;Monster Level 52~58
+RN_KK_KKOASIS_01;Karakoram Oasis
+RN_KK_KKOASIS_02;Frozen oasis of Karakoram
+RN_KK_KKOASIS_03;Monster Level 59~60
+RN_KK_KKRUINS_01;Karakoram Ancient Ruins
+RN_KK_KKRUINS_02;Remains zone where Karakoram civilization that has been prosperous in the past froze by the goddess Isyutaru
+RN_KK_KKRUINS_03;Monster Level 54~57
+RN_KK_KKENTER_01;Karakoram Entrance
+RN_KK_KKENTER_02;Entrance of Karakoram that leads to Karakoram from Hotan
+RN_KK_KKENTER_03;Monster Level 49~50
+RN_TK_ABYSSTUNNEL_01;Entrance of Abyss Tunnel
+RN_TK_ABYSSTUNNEL_02;Tunnel that is used to move to Central Asia from Taklamakan
+RN_TK_ABYSSTUNNEL_03;xxx
+RN_TK_RIVER_01;Anahita River
+RN_TK_RIVER_02;A river that has been abundant with the blessing of ancient goddess Anahita
+RN_TK_RIVER_03;Monster Level 65~67
+RN_TK_NIYARUINS_01;Niya Remains
+RN_TK_NIYARUINS_02;Area where central city of Niya civilization remains that has once been prosperous in the past
+RN_TK_NIYARUINS_03;Monster Level 77~80
+RN_TK_DARKTUNNEL_01;Cave of Darkness
+RN_TK_DARKTUNNEL_02;Deep and Dark cave that connects Karakoram and Taklamakan
+RN_TK_DARKTUNNEL_03;xxx
+RN_TK_DEATHDESERT_01;Desert of Mysterious Death
+RN_TK_DEATHDESERT_02;Mysterious desert that can face with  mysterious deaths
+RN_TK_DEATHDESERT_03;Monster Level 61~63
+RN_TK_TEMPLE_01;Fertility Temple
+RN_TK_TEMPLE_02;A temple of past Niya civilization that worshipped Anahita, the goddess of wealth
+RN_TK_TEMPLE_03;Monster Level 65~67
+RN_TD_THIEFDEN_01;Thief Town
+RN_TD_THIEFDEN_02;Town where vicious thieves are living in
+RN_TD_THIEFDEN_03;xxx
+RN_RM_NORTHWESTFERRY_01;Roc Mountain Northwest Dock
+RN_RM_NORTHWESTFERRY_02;Dock that can be used to move to Minor Asia  from Roc Mountain
+RN_RM_NORTHWESTFERRY_03;xxx
+RN_RM_EYEPEAK_01;Peak of Eye
+RN_RM_EYEPEAK_02;Peak guarded by the Guardian Rocky(Eye) who took over the seal of monstrous bird
+RN_RM_EYEPEAK_03;Monster Level 85~87
+RN_RM_ABANDONTOWN_01;Discarded Town
+RN_RM_ABANDONTOWN_02;A town that people left behind due to the oppression of Roc Tribe
+RN_RM_ABANDONTOWN_03;xxx
+RN_RM_TAILPEAK_01;Peak of Tail
+RN_RM_TAILPEAK_02;Peak guarded by the Guardian Rocky(Tail) who took over the seal of monstrous bird, Roc
+RN_RM_TAILPEAK_03;Monster Level 78~80
+RN_RM_TALONPEAK_01;Peak Of Claw
+RN_RM_TALONPEAK_02;Peak guarded by the Guardian Rocky(Claw) who took over the seal of bizarre bird, Roc
+RN_RM_TALONPEAK_03;Monster Level 78~80
+RN_RM_SHEPHERDTOWN_01;Shepherd's Town
+RN_RM_SHEPHERDTOWN_02;Town where people make a living by growing sheep
+RN_RM_SHEPHERDTOWN_03;xxx
+RN_RM_ROCAPEXENTER_01;Summit Entrance of Roc Mountain
+RN_RM_ROCAPEXENTER_02;Entrance that leads to the summit of Roc Mountain
+RN_RM_ROCAPEXENTER_03;Monster Level 88
+RN_RM_HEARTPEAK_01;Peak Of Heart
+RN_RM_HEARTPEAK_02;Peak guarded by the Guardian Rocky(Heart) who took over the seal of monstrous bird, Roc
+RN_RM_HEARTPEAK_03;Monster Level 85~87
+RN_RM_WINGPEAK_01;Peak Of Wing
+RN_RM_WINGPEAK_02;Peak guarded by the Guardian Rocky(Wing) who took over the seal of monstrous bird, Roc
+RN_RM_WINGPEAK_03;Monster Level 78~80
+RN_RM_WINDTOWN_01;Town of Wind
+RN_RM_WINDTOWN_02;Town that has once been prosperous with the blessing of the wind
+RN_RM_WINDTOWN_03;xxx
+RN_RM_BILLPEAK_01;Peak of Beak
+RN_RM_BILLPEAK_02;Peak guarded by the Guardian Rocky(Beak) who took over the seal of monstrous bird, Roc
+RN_RM_BILLPEAK_03;Monster Level 85~87
+RN_RM_BRAINPEAK_01;Peak of Brain
+RN_RM_BRAINPEAK_02;Peak guarded by the Guardian Rocky(Brain) who took over the seal of monstrous bird, Roc
+RN_RM_BRAINPEAK_03;Monster Level 78~80
+RN_RM_NORTHEASTFERRY_01;Roc Mountain Northeast Dock
+RN_RM_NORTHEASTFERRY_02;Dock where leads to Central Asia and Center of Middle Asia from Roc Mountain
+RN_RM_NORTHEASTFERRY_03;xxx
+RN_RM_SOUTHEASTFERRY_01;Mt. Roc Southeast Dock
+RN_RM_SOUTHEASTFERRY_02;Dock where leads to Karakoram from Mt. Roc
+RN_RM_SOUTHEASTFERRY_03;xxx
+RN_RM_ROCAPEX_01;Mt. Roc Summit
+RN_RM_ROCAPEX_02;Summit of Mt. Roc where the Monstrous Bird Roc lives
+RN_RM_ROCAPEX_03;xxx
+RN_RM_ROCAPEX_TAHOMET_01;Chamber of guardian
+RN_RM_ROCAPEX_TAHOMET_02;Gate of Ruler, guarded by Demon Shaitan
+RN_RM_ROCAPEX_TAHOMET_03;xxx
+RN_RM_ROCAPEX_WAIT_01;Chamber of Roc
+RN_RM_ROCAPEX_WAIT_02;Place where Roc tribe gets ready to meet Roc
+RN_RM_ROCAPEX_WAIT_03;xxx
+RN_EU_WITCHLIGHT_01;Witch's Lighthouse
+RN_EU_WITCHLIGHT_02;Lighthouse where Sunset Witch lives
+RN_EU_WITCHLIGHT_03;Monster Level 1~4
+RN_EU_CONSTANTINOPLE_01;Constantinople
+RN_EU_CONSTANTINOPLE_02;Capital of the Roman Empire, that is called the sun of the west
+RN_EU_CONSTANTINOPLE_03;xxx
+RN_EU_TRAVELER_01;Traveler's Hill
+RN_EU_TRAVELER_02;A hill, the resting area for travelers
+RN_EU_TRAVELER_03;Monster Level 1~4
+RN_EU_TWILIGHTFOREST_01;Forest of Dusk
+RN_EU_TWILIGHTFOREST_02;A forest where true worth is discovered only by those of old age
+RN_EU_TWILIGHTFOREST_03;Monster Level 14~16
+RN_EU_DAWNSEASHORE_01;Shore of Early Dawn
+RN_EU_DAWNSEASHORE_02;A shore where beautiful singing voice is heard during dawn
+RN_EU_DAWNSEASHORE_03;Monster Level 18~20
+RN_EU_GOLDGRASS_01;Golden Plain
+RN_EU_GOLDGRASS_02;Beautiful plain where golden grass is widely spread
+RN_EU_GOLDGRASS_03;Monster Level 1~4
+RN_EU_EUFERRY_01;Eastern Europe Dock
+RN_EU_EUFERRY_02;Dock that can be used to move to Minor Asia  from Eastern Europe
+RN_EU_EUFERRY_03;xxx
+RN_EU_FIGHTHILL_01;Bloody Hill
+RN_EU_FIGHTHILL_02;A hill where the king who guarded Constantinople in the past fought bravely
+RN_EU_FIGHTHILL_03;Monster Level 3~4
+RN_EU_SADFOREST_01;Forest of Sorrow
+RN_EU_SADFOREST_02;A forest that has been devastated by invasion of enemy tribes
+RN_EU_SADFOREST_03;Monster Level 5~12
+RN_EU_INJUSTICEHILL_01;Desperado Hill
+RN_EU_INJUSTICEHILL_02;A hill where the well known desperado Sunishi pillaged others
+RN_EU_INJUSTICEHILL_03;Monster Level 12~15
+RN_EU_GODGARDEN_01;Garden of Gods
+RN_EU_GODGARDEN_02;An area where the ancient gods of Greece enjoyed strolling
+RN_EU_GODGARDEN_03;Monster Level 17~19
+RN_EU_ZEUSTEMPLE_01;Jupiter Temple
+RN_EU_ZEUSTEMPLE_02;A temple where Greeks worshipped the greatest god Zeus in the past
+RN_EU_ZEUSTEMPLE_03;Monster Level 17~19
+RN_EU_THUNDERWATERFALL_01;Thunder Waterfall
+RN_EU_THUNDERWATERFALL_02;A waterfall where the flow of water is as strong as a thunderclap
+RN_EU_THUNDERWATERFALL_03;xxx
+RN_AM_TROYSEASHORE_01;Coast of Troy
+RN_AM_TROYSEASHORE_02;A coast where ancient Troy ruled over in western Minor Asia
+RN_AM_TROYSEASHORE_03;Monster Level 21~23
+RN_AM_SIGIAFERRY_01;Sigia Dock
+RN_AM_SIGIAFERRY_02;Dock that can be used to move to Eastern Europe from Asia Minor
+RN_AM_SIGIAFERRY_03;xxx
+RN_AM_DROAFERRY_01;Droa Dock
+RN_AM_DROAFERRY_02;Dock that can be used to move to Eastern Europe from Asia Minor
+RN_AM_DROAFERRY_03;xxx
+RN_AM_PONDRUINS_01;Pond Ruins
+RN_AM_PONDRUINS_02;A pond where remains of ancient civilization is left
+RN_AM_PONDRUINS_03;xxx
+RN_AM_EVILORDERCASTLE_01;Evil Order Fortress
+RN_AM_EVILORDERCASTLE_02;Headquarter of Evil Orders made by Captain Ivy
+RN_AM_EVILORDERCASTLE_03;Monster Level 22~27
+RN_AM_CAPADKIA_01;Cappadocia
+RN_AM_CAPADKIA_02;An area where ancient Greeks were hiding from religious suppression
+RN_AM_CAPADKIA_03;xxx
+RN_AM_CLEOGATE_01;Cleopatra's Gate
+RN_AM_CLEOGATE_02;A place where Cleopatra, the queen of Egypt, met the Roman general Marcus Antonius
+RN_AM_CLEOGATE_03;Monster Level 25~27
+RN_AM_ANATOLLAND_01;Anatolian Plateau
+RN_AM_ANATOLLAND_02;A plateau on the basin located in Asia Minor peninsula
+RN_AM_ANATOLLAND_03;Monster Level 27~30
+RN_AM_HARANTOWER_01;Haran's Tower
+RN_AM_HARANTOWER_02;A tower with traces of ancient Harans
+RN_AM_HARANTOWER_03;Monster Level 27~28
+RN_AM_ROUNDTHEATER_01;Ampitheater
+RN_AM_ROUNDTHEATER_02;A theater Romans made for public performances
+RN_AM_ROUNDTHEATER_03;Monster Level 27~30
+RN_AM_SOUTHFERRY_01;Minor Asia south Dock
+RN_AM_SOUTHFERRY_02;Dock that can be used to move to Roc Mountain from Asia Minor
+RN_AM_SOUTHFERRY_03;xxx
+RN_CA_DISCIPLINEVALLEY_01;Punishment Valley
+RN_CA_DISCIPLINEVALLEY_02;A valley made by God, to punish Calibria, the dark warlock that has challenged him
+RN_CA_DISCIPLINEVALLEY_03;xxx
+RN_CA_ONGHAUNT_01;Ong Habitat
+RN_CA_ONGHAUNT_02;The habitat of Ongs located at Central Asia
+RN_CA_ONGHAUNT_03;Monster Level 33~34
+RN_CA_SAMARKANT_01;Samarkand
+RN_CA_SAMARKANT_02;A city of blue light, prosperous as the trade city of Silk Road
+RN_CA_SAMARKANT_03;xxx
+RN_CA_HUNPOST_01;Huns Garrison
+RN_CA_HUNPOST_02;Garrison of Huns who cause war to achieve the glory of the past
+RN_CA_HUNPOST_03;Monster Level 35~37
+RN_CA_PAMIRLAND_01;Pamir Plateau
+RN_CA_PAMIRLAND_02;An area made with highlands located in Central Minor
+RN_CA_PAMIRLAND_03;Monster Level 39~40
+RN_CA_ABYSSTUNNELENTER_01;Entrance of Abyss Tunnel
+RN_CA_ABYSSTUNNELENTER_02;Tunnel that can be used to move to Samarkand from Central Asia
+RN_CA_ABYSSTUNNELENTER_03;xxx
+RN_CA_CAFERRY_01;East Dock in Central Asia
+RN_CA_CAFERRY_02;Dock that can be used to move to Karakoram and Roc Mountain from Central Asia
+RN_CA_CAFERRY_03;xxx
+RN_FORT_JANGAN_01;Jangan Fortress
+RN_FORT_JANGAN_02;xxx
+RN_FORT_JANGAN_03;xxx
+RN_FORT_BIJEOKDAN_01;Bandit Fortress
+RN_FORT_BIJEOKDAN_02;xxx
+RN_FORT_BIJEOKDAN_03;xxx
+RN_FORT_HOTAN_01;Hotan Fortress
+RN_FORT_HOTAN_02;xxx
+RN_FORT_HOTAN_03;xxx
+RN_FORT_CONSTANTINOPLE_01; Constantinople Fortress
+RN_FORT_CONSTANTINOPLE_02;An impregnable fortress that stands in guard for the capital, Constantinople.  Once occupied, taxes can be collected at the weapons shop, armor shop, general store, potion store, specialty goods store, and dimensional gate.
+RN_FORT_CONSTANTINOPLE_03;xxx
+RN_ARENA_OCCUPY_01;Battle Arena - Arena
+RN_ARENA_OCCUPY_02;xxx
+RN_ARENA_OCCUPY_03;xxx
+RN_ARENA_FLAG_01;Battle Arena - Capture the flag
+RN_ARENA_FLAG_02;The team with the most flags captured wins
+RN_ARENA_FLAG_03;xxx
+RN_ARENA_SCORE_01;Battle Arena - Score
+RN_ARENA_SCORE_02;The team with the highest points wins
+RN_ARENA_SCORE_03;xxx
+RN_ARENA_GNGWC_01;GNGWC
+RN_ARENA_GNGWC_02;The team with the highest points wins
+RN_ARENA_GNGWC_03;xxx
+RN_SD_MAHASEA_01;Blue Zone
+RN_SD_MAHASEA_02;Red Zone
+RN_SD_MAHASEA_03;Passage
+RN_SD_RICHNESS_01;Blue Zone Passage
+RN_SD_RICHNESS_02;Red Zone Passage
+RN_SD_RICHNESS_03;Blue Team respawn point
+RN_SD_ABUMENA_01;Red Team respawn point
+RN_SD_ABUMENA_02;Religious ruins near Alexandria
+RN_SD_ABUMENA_03;Monster Level 100 ~ 102
+RN_SD_FORGET_01;forbidden plain
+RN_SD_FORGET_02;Headquarter of Pirates near Old Cairo
+RN_SD_FORGET_03;Monster Level 100 ~ 102
+RN_SD_BUZZING_01;Echo valley
+RN_SD_BUZZING_02;Valley with full of endless bug sound
+RN_SD_BUZZING_03;Monster Level 101 ~ 102
+RN_SD_RED_01;Red ground
+RN_SD_RED_02;bloody field place infront of trade center
+RN_SD_RED_03;Monster Level 103 ~ 104
+RN_SD_MAZE_01;Chaos Maze
+RN_SD_MAZE_02;Lost City with glorious  relics from past.
+RN_SD_MAZE_03;Monster Level 104 ~ 105
+RN_SD_DIVINE_01;Holy Water Temple
+RN_SD_DIVINE_02;Place where Holy animal Apis lives
+RN_SD_DIVINE_03;Monster Level 105 ~ 106
+RN_SD_PARAOH_GATE_01;Pharaoh tomb Entrance
+RN_SD_PARAOH_GATE_02;Monster Level 106
+RN_SD_PARAOH_GATE_03;Entrance to Pharaoh Tomb
+RN_SD_SALTDESERT_01;Salt Desert
+RN_SD_SALTDESERT_02;Desert covered with salt and white sand
+RN_SD_SALTDESERT_03;Monster Level 107 ~ 108
+RN_SD_SALTPOST_01;Salt Post
+RN_SD_SALTPOST_02;Salt Post place in Salt Desert
+RN_SD_SALTPOST_03;Monster Level 107 ~ 108
+RN_SD_REDAGRE_01;Red Eggre
+RN_SD_REDAGRE_02;Desert covered with red sand
+RN_SD_REDAGRE_03;Monster Level 109 ~ 110
+RN_SD_REDLEG_01;Red Leg
+RN_SD_REDLEG_02;Desert covered with red pebbles
+RN_SD_REDLEG_03;Monster Level 107 ~ 108
+RN_SD_REDHAMADA_01;Red Hamada
+RN_SD_REDHAMADA_02;Desert covered with red pebbles and huge rocks
+RN_SD_REDHAMADA_03;Monster Level 106 ~ 107
+RN_SD_BLACKAGRE_01;Black Eggre
+RN_SD_BLACKAGRE_02;Desert covered with black sand
+RN_SD_BLACKAGRE_03;Monster Level 109 ~ 110
+RN_SD_BLACKLEG_01;Black Leg
+RN_SD_BLACKLEG_02;Desert covered with black pebbles
+RN_SD_BLACKLEG_03;Monster Level 107 ~ 108
+RN_SD_BLACKHAMADA_01;Black Hamada
+RN_SD_BLACKHAMADA_02;Desert covered with black pebbles and huge rocks
+RN_SD_BLACKHAMADA_03;Monster Level 106 ~ 107
+RN_SD_SAMRUNGSUK_01;Mushroom rock area
+RN_SD_SAMRUNGSUK_02;Stony desert made with mushroom rock and tri-rock
+RN_SD_SAMRUNGSUK_03;Monster Level 106 ~ 107
+RN_SD_EGYPT1_01;1F
+RN_SD_EGYPT1_02;1F
+RN_SD_TEMPLE01_01;sanctum of Restriction
+RN_SD_TEMPLE01_02;NULL
+RN_SD_TEMPLE01_03;NULL
+RN_SD_TEMPLE02_01;sanctum of Resurrection
+RN_SD_TEMPLE02_02;NULL
+RN_SD_TEMPLE02_03;NULL
+RN_SD_TEMPLE03_01;sanctum of Blue Eye
+RN_SD_TEMPLE03_02;NULL
+RN_SD_TEMPLE03_03;NULL
+RN_SD_TEMPLE04_01;sanctum of Riddle
+RN_SD_TEMPLE04_02;NULL
+RN_SD_TEMPLE04_03;NULL
+RN_SD_TEMPLE05_01;sanctum of Test
+RN_SD_TEMPLE05_02;NULL
+RN_SD_TEMPLE05_03;NULL
+RN_SD_TEMPLE06_01;sanctum of Red Eye
+RN_SD_TEMPLE06_02;NULL
+RN_SD_TEMPLE06_03;NULL
+RN_SD_TEMPLE07_01;sanctum of Mystery
+RN_SD_TEMPLE07_02;NULL
+RN_SD_TEMPLE07_03;NULL
+RN_SD_TEMPLE08_01;sanctum of Glory
+RN_SD_TEMPLE08_02;NULL
+RN_SD_TEMPLE08_03;NULL
+RN_SD_TEMPLE09_01;sanctum of Atonement
+RN_SD_TEMPLE09_02;NULL
+RN_SD_TEMPLE09_03;NULL
+RN_SD_TEMPLE10_01;sanctum of Audience
+RN_SD_TEMPLE10_02;NULL
+RN_SD_TEMPLE10_03;NULL
+RN_SD_TEMPLE11_01;sanctum of Immortality
+RN_SD_TEMPLE11_02;NULL
+RN_SD_TEMPLE11_03;NULL
+RN_SD_TEMPLE12_01;sanctum of Dark
+RN_SD_TEMPLE12_02;NULL
+RN_SD_TEMPLE12_03;NULL
+RN_SD_TEMPLE13_01;sanctum of punishment
+RN_SD_TEMPLE13_02;NULL
+RN_SD_TEMPLE13_03;NULL
+RN_SD_TEMPLE14_01;Trader/Hunter Entrance
+RN_SD_TEMPLE14_02;NULL
+RN_SD_TEMPLE14_03;NULL
+RN_SD_TEMPLE15_01;Thief Entrance
+RN_SD_TEMPLE15_02;NULL
+RN_SD_TEMPLE15_03;NULL
+RN_SD_EGYPT01_01;Alexandria
+RN_SD_EGYPT01_02;Harbor city placed middle of north egypt. Famous with  Alexandria library and Paros Light house
+RN_SD_EGYPT01_03;xxx
+RN_SD_EGYPT02_01;Kings Valley
+RN_SD_EGYPT02_02;Valley with Tombs of Paraohs
+RN_SD_EGYPT02_03;xxx
+RN_SD_EGYPT03_01;Paraoh tomb
+RN_SD_EGYPT03_02;Place, where Paraoh's mummies kept
+RN_SD_EGYPT03_03;xxx
+RN_SD_EGYPT04_01;Storm and cloud desert
+RN_SD_EGYPT04_02;Desert with non-stop dark storm rules over.
+RN_SD_EGYPT04_03;xxx
+RN_SD_EGYPT05_01;Temple
+RN_SD_EGYPT05_02;Where Ancient God's secret lies
+RN_SD_EGYPT05_03;xxx
+RN_SD_TESTROOM_01;Chamber of Test
+RN_SD_TESTROOM_02;A place guarded by Sphinx in which wisdom is tested
+RN_SD_TESTROOM_03;xxx
+RN_SD_POWERROOM_01;Chamber of the God of War
+RN_SD_POWERROOM_02;A place guarded by the god of war, Sekhmet
+RN_SD_POWERROOM_03;xxx
+RN_SD_HEROROOM_01;Chamber of Warrior
+RN_SD_HEROROOM_02;A place guarded by the god of the sun, Horus
+RN_SD_HEROROOM_03;xxx
+RN_SD_REVIVALROOM_01;Chamber of revival
+RN_SD_REVIVALROOM_02;A place guarded by the god of death and resurrection, Osiris
+RN_SD_REVIVALROOM_03;xxx
+FORT_DUNGEON01;B1
+RN_FORT_DUNGEON01_01;Cave of Meditation
+RN_FORT_DUNGEON01_02;A place where many monks disciplined themselves through Zen meditation in order to attain the Enlightenment.
+RN_FORT_DUNGEON01_03;xxx
+RN_GOD_TOGUI_01;Legacy of God - Togui Village
+RN_GOD_TOGUI_02;A world filled with evil magic and wicked energy
+RN_GOD_TOGUI_03;xxx
+FLAME_DUNGEON01;1F
+RN_GOD_FLAME_01;Legacy of God - Flame Mountain
+RN_GOD_FLAME_02;A world in which intense flame puts out hellish heat
+RN_GOD_FLAME_03;xxx
+RN_GOD_WRECK_01;Legacy of God - Shipwreck
+RN_GOD_WRECK_02;An abysmal world filled with various monsters and ghost pirates
+RN_GOD_WRECK_03;xxx
+RN_EVENT_GHOST_01;Cemetery
+RN_EVENT_GHOST_02;The team with the highest number of captured ghosts, thus the highest score, wins.
+RN_EVENT_GHOST_03;xxx
+RN_JUPITER_A_01;Hall of Worship
+RN_JUPITER_A_02;A mysterious dungeon where the power of the sun lies dormant within.
+RN_JUPITER_A_03;xxx
+RN_JUPITER_B_01;Zealots Hideout
+RN_JUPITER_B_02;A den of darkness where the fanatic Baal followers are gathered.
+RN_JUPITER_B_03;xxx
+RN_JUPITER_A_THEEARTH_01;The Earth's Room
+RN_JUPITER_A_THEEARTH_02;The room of The Earth, the Temple's guardian.
+RN_JUPITER_A_THEEARTH_03;xxx
+RN_JUPITER_A_UNO_01;Yuno's Room
+RN_JUPITER_A_UNO_02;The room of Yuno, the mother of the great outdoors.
+RN_JUPITER_A_UNO_03;xxx
+RN_JUPITER_A_UPI_01;Jupiter's Room
+RN_JUPITER_A_UPI_02;The room of Jupiter, the god of lightning and the skies.
+RN_JUPITER_A_UPI_03;xxx
+RN_JUPITER_01;1F
+RN_JUPITER_BASE_01;Mirror Dimension Tent
+RN_JUPITER_BASE_02;Survivors of the lost soldiers are gathered here.
+RN_JUPITER_BASE_03;xxx
+RN_JUPITER_GOD_01;Mirrored Garden of Gods
+RN_JUPITER_GOD_02;A dark and damp garden where only despair remains.
+RN_JUPITER_GOD_03;Monster Level 111-113
+RN_JUPITER_DAWN_01;Mirrored Forest of Dusk
+RN_JUPITER_DAWN_02;A forest of darkness where the light has disappeared and only a curse remains.
+RN_JUPITER_DAWN_03;Monster Level 114-115
+RN_JUPITER_HILL_01;Mirrored Desperado Hill
+RN_JUPITER_HILL_02;A playground of cruel devils.
+RN_JUPITER_HILL_03;Monster Level 111-113
+RN_JUPITER_SAD_01;Mirrored Forest of Sorrow
+RN_JUPITER_SAD_02;A forest of terror filled with the cries of zealots who have been used as an experiment.
+RN_JUPITER_SAD_03;Monster Level 116-120
+RN_JUPITER_SEA_01;Mirrored Shore of Dawn
+RN_JUPITER_SEA_02;A sea of terror filled with darkness and the sound of cold waves.
+RN_JUPITER_SEA_03;Monster Level 114-115
+RN_GM_FIELD_01;GM's room
+RN_GM_FIELD_02;Rest area where GMs stay in.
+RN_GM_FIELD_03;xxx
+RN_PRISON_01;Prison
+RN_PRISON_02;A place where prisoners who committed a crime are jailed.
+RN_PRISON_03;xxx
+RN_JUPITER_02;1F
+RN_JUPITER_03;1F
+RN_JUPITER_04;1F
+RN_MUHAN_01;Battlefield of Infinity
+RN_MUHAN_02;Protect the Guardian Stone from the monster
+RN_MUHAN_03;xxx
+RN_ARENA_JOB_WAR_01;Styria Clash
+RN_ARENA_JOB_WAR_02;Area of battle between Thieves and Hunters to obtain the Styria
+RN_ARENA_JOB_WAR_03;xxx
+RN_ARABIA_TOWN_01;Baghdad
+RN_ARABIA_TOWN_02;A massive capital palace standing tall in the land of Arabia
+RN_ARABIA_TOWN_03;xxx
+RN_ARABIA_DUNGEON_01;Baghdad (?)
+RN_ARABIA_DUNGEON_02;Baghdad with Abshad's ambition fulfilled
+RN_ARABIA_DUNGEON_03;Monster Level 123~125
+RN_ARABIA_FIELD_01_01;Kirk
+RN_ARABIA_FIELD_01_02;A vast field comprised of pastures and valleys
+RN_ARABIA_FIELD_01_03;Monster Level 121~123
+RN_ARABIA_FIELD_02_01;Phantom Desert
+RN_ARABIA_FIELD_02_02;A wasteland used by desert bandits as their base of operation
+RN_ARABIA_FIELD_02_03;Monster Level 123~125
+RN_ARABIA_FIELD_02_BOSS_01;Kalia's Hideout
+RN_ARABIA_FIELD_02_BOSS_02;A hideout where Thief Boss Kalia is hiding herself
+RN_ARABIA_FIELD_02_BOSS_03;Monster Level 123~125
+RN_ARABIA_FIELD_03_01;0
+RN_ARABIA_FIELD_03_02;0
+RN_ARABIA_FIELD_03_03;0
+RN_ARABIA_PETRA_01;0
+RN_ARABIA_PETRA_02;0
+RN_ARABIA_PETRA_03;0
+RN_ARABIA_GARDEN_01;0
+RN_ARABIA_GARDEN_02;0
+RN_ARABIA_GARDEN_03;0
+RN_ARABIA_FIELD_02_BOSS;0
